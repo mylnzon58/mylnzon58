@@ -93,6 +93,21 @@ Conecto la ingeniería con la tracción real del producto mediante una gestión 
 
 ---
 
+### 🛡️ Caso Real: Seguridad Web, Hardening en WordPress & SEO (+10 años en producción)
+
+Además de crear nuevos productos y plataformas SaaS, administro y optimizo infraestructura web con alta demanda y longevidad en producción:
+
+- **Portal de Noticias (`infor-villaguay.com` — Creado y administrado continuamente desde 2014):**
+  - **Mantenimiento Crítico & Seguridad:** Más de una década administrando el sitio; mitigación de ataques de fuerza bruta, bloqueo de bots maliciosos que explotaban vulnerabilidades en plugins y desinfección forense de inyecciones de malware en bases de datos.
+  - **Modernización de Infraestructura:** Actualizaciones continuas del stack tecnológico, incluyendo la migración a versiones recientes de **PHP** para maximizar rendimiento, estabilidad y velocidad de respuesta.
+  - **Resultados de SEO Orgánico (Google Search Console):** Posicionamiento líder en búsquedas clave locales con una **posición media de 1,3** y un **CTR superior al 38%**, logrando miles de clics orgánicos mensuales sin depender de pauta publicitaria.
+
+<p align="center">
+  <img src="assets/gsc-performance.png" alt="Google Search Console - infor-villaguay.com" width="90%" />
+</p>
+
+---
+
 ### ☕ ¿Te sirvió alguna de mis herramientas o soluciones? / Support My Work
 
 Si alguna de mis herramientas, extensiones o soluciones *open-source* que comparto por aquí te ayudó a resolver un problema o te ahorró horas de trabajo, puedes invitarme un **Tecito** si deseas apoyar mis proyectos:
