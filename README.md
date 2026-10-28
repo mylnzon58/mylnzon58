@@ -16,6 +16,9 @@
   <a href="https://puntogeo.com" target="_blank">
     <img src="https://img.shields.io/badge/%F0%9F%93%8D_PuntoGeo-puntogeo.com-059669?style=for-the-badge&logoColor=white" alt="PuntoGeo - puntogeo.com" />
   </a>
+  <a href="https://github.com/mylnzon58/livefunnel" target="_blank">
+    <img src="https://img.shields.io/badge/%E2%9A%A1_LiveFunnel-CRO_%26_3D_Analytics-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="LiveFunnel - Open Source CRO Engine" />
+  </a>
   <a href="https://chromewebstore.google.com/detail/ofiokicamkblihcegnjnjngfooehhgfk?utm_source=item-share-cb" target="_blank">
     <img src="https://img.shields.io/badge/Chrome_Web_Store-Extensi%C3%B3n_Publicada-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store Extension" />
   </a>
@@ -36,6 +39,7 @@ Integro el desarrollo de software con mi experiencia en **marketing, analítica 
 
 - 🚀 **En desarrollo actual:** [Anuncero (`anuncero.press`)](https://anuncero.press) — Infraestructura tecnológica publicitaria
 - 📍 **SaaS en producción:** [PuntoGeo (`puntogeo.com`)](https://puntogeo.com) — Geolocalización familiar y de contactos vía SMS con consentimiento bilateral
+- ⚡ **Open-Source CRO & Analytics:** [LiveFunnel (`mylnzon58/livefunnel`)](https://github.com/mylnzon58/livefunnel) — Motor de embudos de conversión en tiempo real, globo 3D y trazabilidad de sesiones para Next.js & Supabase
 - 🔗 **LinkedIn:** [Juan Monzón](https://www.linkedin.com/in/juan-m-97b85681/)
 - 📸 **Instagram:** [@juanjoclassic](https://www.instagram.com/juanjoclassic/)
 - 🧩 **Chrome Web Store:** [Ver extensión avanzada publicada](https://chromewebstore.google.com/detail/ofiokicamkblihcegnjnjngfooehhgfk?utm_source=item-share-cb)
@@ -54,6 +58,9 @@ Integro el desarrollo de software con mi experiencia en **marketing, analítica 
   - **Consentimiento bilateral y trazabilidad legal:** Opera exclusivamente bajo aceptación expresa de ambas partes, registrando la conformidad de los Términos y Condiciones legales antes de compartir cualquier ubicación (uso estrictamente lícito; la plataforma deslinda toda responsabilidad ante usos indebidos).  
   - **Modelo y Arquitectura (*Turnkey SaaS*):** Sistema accesible basado en créditos prepagos de bajo costo. Construido con **Supabase**, optimizado para despliegue en **Vercel** o autoalojado en **VPS mediante Docker**.  
   - 💼 **Adquisición de código fuente / SaaS completo:** Repositorio privado disponible bajo licencia comercial llave en mano por **USD $1,500** (consultas vía [LinkedIn](https://www.linkedin.com/in/juan-m-97b85681/) o `mylnzon58@gmail.com`).
+
+- ⚡ **[LiveFunnel — `mylnzon58/livefunnel`](https://github.com/mylnzon58/livefunnel)** *(Open Source · Apache 2.0)*  
+  **Motor de embudos de conversión (CRO) en tiempo real, globo 3D interactivo y trazabilidad forense de sesiones para Next.js & Supabase.** Permite visualizar actividad global en vivo sin depender de APIs externas de mapas, auditar el recorrido paso a paso de cada usuario antes de comprar o abandonar, medir ingresos (pago único o suscripciones) y proteger la cuota gratuita (*Free Tier*) mediante agregación SQL directa en PostgreSQL.
 
 - 🌐 **[Extensión Avanzada en Chrome Web Store](https://chromewebstore.google.com/detail/ofiokicamkblihcegnjnjngfooehhgfk?utm_source=item-share-cb)**  
   Herramienta avanzada para páginas web publicada oficialmente en la Chrome Web Store, enfocada en optimizar flujos de trabajo y productividad en el navegador.
