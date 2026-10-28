@@ -1,6 +1,6 @@
 # Hola, soy [Juan Monzón](https://www.linkedin.com/in/juan-m-97b85681/) 👋
 
-**AI Product | Full Stack Developer | Digital Products & Growth**  
+**Full Stack Developer & Digital Product Builder | AI, Growth & Conversion Engineering**  
 📍 Argentina
 
 <p align="left">
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/%F0%9F%9A%80_Anuncero-anuncero.press-7C3AED?style=for-the-badge&logoColor=white" alt="Anuncero - anuncero.press" />
   </a>
   <a href="https://puntogeo.com" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%93%8D_PuntoGeo-puntogeo.com-059669?style=for-the-badge&logoColor=white" alt="PuntoGeo - puntogeo.com" />
+    <img src="https://img.shields.io/badge/%F0%9F%93%8D_PuntoGeo-puntogeo.com-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="PuntoGeo - puntogeo.com" />
   </a>
   <a href="https://github.com/mylnzon58/livefunnel" target="_blank">
     <img src="https://img.shields.io/badge/%E2%9A%A1_LiveFunnel-CRO_%26_3D_Analytics-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="LiveFunnel - Open Source CRO Engine" />
@@ -31,20 +31,42 @@
 
 ### 🚀 Sobre mí / About Me
 
-Construyo **productos digitales potenciados por IA**, **soluciones Full Stack orientadas a crecimiento (*Growth*)** y herramientas —tanto comerciales como *open-source*— diseñadas para resolver problemas reales.
+Soy **Full Stack Developer y creador de productos digitales**, con más de **9 años de experiencia** construyendo, desplegando y monetizando software en producción. Combino desarrollo de software, IA aplicada, diseño de producto y visión de negocio para transformar ideas desde su concepción hasta soluciones operativas, escalables y rentables.
 
-Integro el desarrollo de software con mi experiencia en **marketing, analítica de datos y psicología aplicada al producto**: diseño interfaces (*UI/UX*) y arquitecturas de *funnels* en aplicaciones y plataformas web pensadas estratégicamente para reducir la fricción, guiar el comportamiento del usuario y lograr que cada solución de software convierta mejor.
+Me apasiona crear, automatizar y escalar productos digitales conectando la **adquisición de usuarios** con la **experiencia de producto (PX)** y la **conversión**, tomando decisiones fundamentadas en datos, métricas y resultados medibles.
 
-> 🇬🇧 *I build AI-powered digital products, growth-driven Full Stack solutions, and both commercial & open-source tools that solve real-world problems. By combining software engineering with data analytics, behavioral psychology in UI/UX, and funnel optimization, I design apps and web platforms engineered for higher conversion and measurable business growth.*
+> 🇬🇧 *Full Stack Developer and Digital Product Builder with 9+ years of experience engineering, deploying, and monetizing software. I bridge software engineering, applied AI, and user acquisition with product experience (PX) and conversion rate optimization (CRO) to turn concepts into profitable, scalable production platforms.*
 
-- 🚀 **En desarrollo actual:** [Anuncero (`anuncero.press`)](https://anuncero.press) — Infraestructura tecnológica publicitaria
-- 📍 **SaaS en producción:** [PuntoGeo (`puntogeo.com`)](https://puntogeo.com) — Geolocalización familiar y de contactos vía SMS con consentimiento bilateral
-- ⚡ **Open-Source CRO & Analytics:** [LiveFunnel (`mylnzon58/livefunnel`)](https://github.com/mylnzon58/livefunnel) — Motor de embudos de conversión en tiempo real, globo 3D y trazabilidad de sesiones para Next.js & Supabase
-- 🔗 **LinkedIn:** [Juan Monzón](https://www.linkedin.com/in/juan-m-97b85681/)
-- 📸 **Instagram:** [@juanjoclassic](https://www.instagram.com/juanjoclassic/)
-- 🧩 **Chrome Web Store:** [Ver extensión avanzada publicada](https://chromewebstore.google.com/detail/ofiokicamkblihcegnjnjngfooehhgfk?utm_source=item-share-cb)
-- ☕ **Apoyar con un Tecito:** [https://tecito.app/juanjoclassic](https://tecito.app/juanjoclassic)
-- ✉️ **Contacto & Licencias Comerciales:** `mylnzon58@gmail.com`
+---
+
+### 🧠 Filosofía de Producto: SDLC + Psicología del Diseño & Funnels (CRO)
+
+Mi desarrollo no se limita al ciclo de vida tradicional del software (**SDLC**) o metodologías **LEAN / Agile**. Cada interfaz, flujo y arquitectura está construida integrando **Leyes de UX/UI y Psicología del Diseño** orientadas a optimizar el embudo de conversión (*Marketing Funnel*):
+
+- **Leyes de UX/UI aplicadas a la reducción de fricción:**
+  - **Ley de Hick:** Reducción drástica del esfuerzo cognitivo y fatiga de decisión al simplificar las opciones del usuario en cada paso.
+  - **Ley de Fitts:** Jerarquía ergonómica y accesibilidad inmediata en botones de acción principales y llamadas a la acción (CTAs).
+  - **Efecto Von Restorff (Aislamiento):** Resalte visual y de contraste del elemento crítico de conversión para guiar la atención sin distracciones.
+  - **Ley de Proximidad:** Estructuración visual lógica de propuestas de valor, tablas comparativas y modelos de precios.
+- **Gatillos Mentales (*Psychological Triggers*) y Sesgos Cognitivos:**
+  - **Ganchos (*Hooks*):** Retención inmediata en los primeros 3 segundos mediante copy estratégico y estímulos visuales de alto impacto.
+  - **Validación Social (*Social Proof*):** Integración orgánica de testimonios, métricas de uso y prueba de satisfacción para derribar objeciones.
+  - **Escasez y Urgencia (*FOMO - Fear Of Missing Out*):** Dinámicas contextualizadas de disponibilidad y tiempos limitados que incentivan la acción inmediata.
+  - **Framework AIDA (Atención, Interés, Deseo, Acción):** Estructura persuasiva aplicada en landing pages, microcopias, onboardings y pasarelas de pago.
+
+---
+
+### 📊 Adquisición, Performance & Analítica (Search Ads, Technical SEO & Data)
+
+Conecto la ingeniería con la tracción real del producto mediante una gestión analítica rigurosa:
+
+- **Google Ads (Search):** Especialización y dominio exclusivo de **campañas de búsqueda en Google Ads (Search Ads)**, optimizando la intención de compra del usuario, pujas estratégicas y análisis competitivo de anuncios para captar tráfico calificado con alto retorno de inversión.
+- **Technical SEO & Core Web Vitals:**
+  - Arquitectura de metadatos estructurados enriquecidos (**Schema.org / JSON-LD**).
+  - Optimización extrema de velocidad de carga y métricas Core Web Vitals (**LCP, INP, CLS, FCP**) con altos puntajes en Google Dev Speed Score / PageSpeed Insights.
+  - Investigación exhaustiva de palabras clave de cola corta y cola larga (*short & long-tail*), mapeo de intención de búsqueda y análisis de autoridad, fuerza de dominio y perfil de backlinks.
+- **Email Marketing & Automatización:** Secuencias automatizadas de onboarding, retención y reactivación orientadas a LTV.
+- **Analítica Cuantitativa y Cualitativa:** Monitoreo y optimización continua del comportamiento del usuario utilizando **Google Analytics 4 (GA4)**, **Google Tag Manager (GTM)**, **Microsoft Clarity** y **Hotjar** (grabaciones de sesión, heatmaps y análisis de abandono).
 
 ---
 
