@@ -1,7 +1,7 @@
-# Hola, soy [Juan Monzón](https://www.linkedin.com/in/juan-m-97b85681/) 👋
+# Hola, soy [Juan Monzón](https://www.linkedin.com/in/juan-m-97b85681/) 🇦🇷 👋
 
 **Full Stack Developer & Digital Product Builder | AI, Growth & Conversion Engineering**  
-📍 Argentina
+📍 Argentina 🇦🇷
 
 <p align="left">
   <a href="https://www.linkedin.com/in/juan-m-97b85681/" target="_blank">
@@ -35,7 +35,7 @@ Soy **Full Stack Developer y creador de productos digitales**, con más de **9 a
 
 Me apasiona crear, automatizar y escalar productos digitales conectando la **adquisición de usuarios** con la **experiencia de producto (PX)** y la **conversión**, tomando decisiones fundamentadas en datos, métricas y resultados medibles.
 
-> 🇬🇧 *Full Stack Developer and Digital Product Builder with 9+ years of experience engineering, deploying, and monetizing software. I bridge software engineering, applied AI, and user acquisition with product experience (PX) and conversion rate optimization (CRO) to turn concepts into profitable, scalable production platforms.*
+> *Full Stack Developer and Digital Product Builder with 9+ years of experience engineering, deploying, and monetizing software. I bridge software engineering, applied AI, and user acquisition with product experience (PX) and conversion rate optimization (CRO) to turn concepts into profitable, scalable production platforms.*
 
 ---
 
