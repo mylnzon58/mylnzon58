@@ -84,8 +84,14 @@ Conecto la ingeniería con la tracción real del producto mediante una gestión 
 - ⚡ **[LiveFunnel — `mylnzon58/livefunnel`](https://github.com/mylnzon58/livefunnel)** *(Open Source · Apache 2.0)*  
   **Motor de embudos de conversión (CRO) en tiempo real, globo 3D interactivo y trazabilidad forense de sesiones para Next.js & Supabase.** Permite visualizar actividad global en vivo sin depender de APIs externas de mapas, auditar el recorrido paso a paso de cada usuario antes de comprar o abandonar, medir ingresos (pago único o suscripciones) y proteger la cuota gratuita (*Free Tier*) mediante agregación SQL directa en PostgreSQL.
 
-- 🌐 **[Extensión Avanzada en Chrome Web Store](https://chromewebstore.google.com/detail/ofiokicamkblihcegnjnjngfooehhgfk?utm_source=item-share-cb)**  
-  Herramienta avanzada para páginas web publicada oficialmente en la Chrome Web Store, enfocada en optimizar flujos de trabajo y productividad en el navegador.
+- 🌐 **[Extensión de Texto a Voz (TTS) en Chrome Web Store](https://chromewebstore.google.com/detail/ofiokicamkblihcegnjnjngfooehhgfk?utm_source=item-share-cb)** *(100% Gratuita · ~1.000 Usuarios Activos Semanales)*  
+  **Convierte cualquier texto seleccionado de páginas web en audio al instante.** Diseñada para profesionales y estudiantes que necesitan ahorrar tiempo y hacer multitarea escuchando artículos, noticias, documentación o fragmentos marcados mientras realizan otras actividades.  
+  - 📈 **Tracción y adopción:** Base sólida y sostenida de **casi 1.000 usuarios activos semanales (~982 WAU)** con alta retención en el panel oficial de desarrolladores de Google.  
+  - ⭐ **Pruébala gratis:** [Instalar desde Chrome Web Store](https://chromewebstore.google.com/detail/ofiokicamkblihcegnjnjngfooehhgfk?utm_source=item-share-cb) y déjame tu calificación o reseña de 5 estrellas si te ayuda en tu día a día.
+
+<p align="center">
+  <img src="assets/chrome-extension-users.png" alt="Métricas Chrome Web Store - Usuarios Activos Semanales (~982 WAU)" width="85%" />
+</p>
 
 - 🛠️ **[t2-macbook-pro-16-1-dsp-ubuntu-24.04](https://github.com/mylnzon58/t2-macbook-pro-16-1-dsp-ubuntu-24.04)** *(Aporte Open-Source)*  
   Diagnóstico, parche y automatización del grafo DSP de 6 canales (PipeWire 1.0.7 + LV2 + FIR Convolver) para MacBook Pro 16,1 (2019, A2141) en Ubuntu 24.04 LTS.  
