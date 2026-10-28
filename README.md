@@ -61,6 +61,12 @@ Mi desarrollo no se limita al ciclo de vida tradicional del software (**SDLC**) 
 Conecto la ingeniería con la tracción real del producto mediante una gestión analítica rigurosa:
 
 - **Google Ads (Search):** Especialización y dominio exclusivo de **campañas de búsqueda en Google Ads (Search Ads)**, optimizando la intención de compra del usuario, pujas estratégicas y análisis competitivo de anuncios para captar tráfico calificado con alto retorno de inversión.
+  - 📈 **Track Record en SaaS de Geolocalización (2019 - 2022):** Campañas de búsqueda a gran escala para variantes y micro-servicios SaaS predecesores de PuntoGeo, logrando **+745.000 clics**, **+17.000 conversiones directas** y liderazgo continuo en el ranking de búsqueda en un nicho altamente competitivo.
+
+<p align="center">
+  <img src="assets/google-ads-performance.png" alt="Google Ads Search Performance - 745K Clics y 17K Conversiones" width="85%" />
+</p>
+
 - **Technical SEO & Core Web Vitals:**
   - Arquitectura de metadatos estructurados enriquecidos (**Schema.org / JSON-LD**).
   - Optimización extrema de velocidad de carga y métricas Core Web Vitals (**LCP, INP, CLS, FCP**) con altos puntajes en Google Dev Speed Score / PageSpeed Insights.
