@@ -22,6 +22,12 @@
   <a href="https://chromewebstore.google.com/detail/ofiokicamkblihcegnjnjngfooehhgfk?utm_source=item-share-cb" target="_blank">
     <img src="https://img.shields.io/badge/Chrome_Web_Store-Extensi%C3%B3n_Publicada-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store Extension" />
   </a>
+  <a href="https://github.com/mylnzon58/t2-touchid-touchbar-bridge-ubuntu-24" target="_blank">
+    <img src="https://img.shields.io/badge/Apple_T2-Touch_Bar_%26_Touch_ID-10B981?style=for-the-badge&logo=apple&logoColor=white" alt="Touch Bar & Touch ID Bridge" />
+  </a>
+  <a href="https://github.com/mylnzon58/t2-macbook-pro-16-1-thermal-performance-fix-ubuntu" target="_blank">
+    <img src="https://img.shields.io/badge/Apple_T2-Thermal_%26_Kernel_Fix-E95420?style=for-the-badge&logo=linux&logoColor=white" alt="Thermal Performance Fix" />
+  </a>
   <a href="https://tecito.app/juanjoclassic" target="_blank">
     <img src="https://img.shields.io/badge/%E2%98%95_Donar_un_Tecito-tecito.app%2Fjuanjoclassic-FF813F?style=for-the-badge&logoColor=white" alt="Donar un Tecito - tecito.app/juanjoclassic" />
   </a>
@@ -99,9 +105,43 @@ Conecto la ingeniería con la tracción real del producto mediante una gestión 
   <img src="assets/chrome-extension-users.png" alt="Métricas Chrome Web Store - Usuarios Activos Semanales (~982 WAU)" width="85%" />
 </p>
 
-- 🛠️ **[t2-macbook-pro-16-1-dsp-ubuntu-24.04](https://github.com/mylnzon58/t2-macbook-pro-16-1-dsp-ubuntu-24.04)** *(Aporte Open-Source)*  
-  Diagnóstico, parche y automatización del grafo DSP de 6 canales (PipeWire 1.0.7 + LV2 + FIR Convolver) para MacBook Pro 16,1 (2019, A2141) en Ubuntu 24.04 LTS.  
-  📄 [Documentación Técnica (GitHub Pages)](https://mylnzon58.github.io/t2-macbook-pro-16-1-dsp-ubuntu-24.04/)
+---
+
+### 🍏 Hardware & Kernel Engineering: Ecosistema Apple T2 en Linux (Ubuntu 24.04 LTS)
+
+Investigación aplicada, depuración a bajo nivel del kernel y desarrollo de drivers/puentes userspace en **Rust, C y Shell** para la serie **Apple MacBook Pro con chip de seguridad T2 (Modelo A2141)**, desbloqueando el 100% de capacidades del hardware bajo **Ubuntu 24.04 LTS (Noble Numbat)** y superando la obsolescencia programada:
+
+#### 1. ⚡ Optimización Térmica, Rendimiento & Fix del Kernel (Intel i915 + HWP Asimétrico)
+* **Diagnóstico y Bug Detectado:** Identificación de cuellos de botella críticos en la cola de trabajo del driver `i915` (>10.000 µs de latencia tras suspensión) y estrangulamiento térmico agresivo por escalado simétrico plano de frecuencia.
+* **Solución Implementada:** Gobernador asimétrico per-core (`balance_performance` escalonado) y hook post-resume. Reducción sostenida de temperaturas de **98°C a 68°C (-30°C)** y estabilidad en benchmarks de estrés zig-zag.
+* 📦 **Repositorio:** [`mylnzon58/t2-macbook-pro-16-1-thermal-performance-fix-ubuntu`](https://github.com/mylnzon58/t2-macbook-pro-16-1-thermal-performance-fix-ubuntu) | 📄 [Documentación Técnica](https://mylnzon58.github.io/t2-macbook-pro-16-1-thermal-performance-fix-ubuntu/)
+* 🌐 **Issues Upstream:** [AdityaGarg8/t2-ubuntu-repo #43](https://github.com/AdityaGarg8/t2-ubuntu-repo/issues/43) · [t2linux/T2-Ubuntu #218](https://github.com/t2linux/T2-Ubuntu/issues/218)
+
+<p align="center">
+  <img src="assets/t2-thermal-performance-horizontal.jpg" alt="Apple T2 Thermal & Kernel Performance Fix" width="95%" />
+</p>
+
+#### 2. 🎵 Motor de Audio DSP Nativo de 6 Canales (PipeWire + LV2 + Convolver)
+* **Diagnóstico:** Ruptura del subsistema de sonido espacial y subwoofers en Ubuntu 24.04 LTS debido a la depreciación de plugins LV2 en PipeWire 1.0.7.
+* **Solución Implementada:** Grafo DSP nativo con filtros FIR convolver, compresión de rango dinámico y crossover activo para los 6 altavoces físicos sin parches manuales.
+* 📦 **Repositorio:** [`mylnzon58/t2-macbook-pro-16-1-dsp-ubuntu-24.04`](https://github.com/mylnzon58/t2-macbook-pro-16-1-dsp-ubuntu-24.04) | 📄 [Documentación Técnica](https://mylnzon58.github.io/t2-macbook-pro-16-1-dsp-ubuntu-24.04/)
+* 🌐 **Issues Upstream:** [lemmyg/t2-apple-audio-dsp #39](https://github.com/lemmyg/t2-apple-audio-dsp/issues/39) · [t2linux/T2-Ubuntu #219](https://github.com/t2linux/T2-Ubuntu/issues/219)
+
+<p align="center">
+  <img src="assets/t2-audio-dsp-horizontal.jpg" alt="Apple T2 6-Speaker Audio DSP Engine" width="95%" />
+</p>
+
+#### 3. 🖥️ Touch Bar OLED Dinámica (Zero-Reboot) & Puente Touch ID con Secure Enclave
+* **Diagnóstico:** En Linux, la Touch Bar arrancaba en modo básico estático y el sensor biométrico quedaba inutilizable por el cifrado del Secure Enclave Processor (SEP) del Apple T2.
+* **Soluciones Implementadas:**
+  - **Activación Zero-Reboot en Vivo:** Secuencia de reseteo USB (Config 0 -> Config 2 -> recarga `appletbdrm`) para encender la pantalla OLED interactiva en caliente sin necesidad de reiniciar, con reloj en tiempo real, batería, accesos y controles táctiles (`tiny-dfr`).
+  - **Touch ID Nativo para `sudo` y PAM:** Portado y compilación en Rust del daemon `t2-touchid` sobre red interna CDC-NCM IPv6 (puerto 59602), enlazando la huella enrolada en macOS con `fprintd` y PAM (`pam_fprintd.so`) para autenticación en 0.2s con soporte de tecla `Esc`.
+* 📦 **Repositorio:** [`mylnzon58/t2-touchid-touchbar-bridge-ubuntu-24`](https://github.com/mylnzon58/t2-touchid-touchbar-bridge-ubuntu-24) | 📄 [Documentación Técnica](https://mylnzon58.github.io/t2-touchid-touchbar-bridge-ubuntu-24/)
+* 🌐 **Issues Upstream:** [AdityaGarg8/t2-ubuntu-repo #44](https://github.com/AdityaGarg8/t2-ubuntu-repo/issues/44) · [t2linux/T2-Ubuntu #223](https://github.com/t2linux/T2-Ubuntu/issues/223)
+
+<p align="center">
+  <img src="assets/t2-touchbar-touchid-horizontal.jpg" alt="Apple T2 Dynamic OLED Touch Bar and Touch ID Bridge" width="95%" />
+</p>
 
 ---
 
