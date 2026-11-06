@@ -25,6 +25,9 @@
   <a href="https://github.com/mylnzon58/t2-touchid-touchbar-bridge-ubuntu-24" target="_blank">
     <img src="https://img.shields.io/badge/Apple_T2-Touch_Bar_%26_Touch_ID-10B981?style=for-the-badge&logo=apple&logoColor=white" alt="Touch Bar & Touch ID Bridge" />
   </a>
+  <a href="https://github.com/mylnzon58/t2-chrome-gpu-memory-optimizer-ubuntu-24" target="_blank">
+    <img src="https://img.shields.io/badge/Apple_T2-Chrome_%26_GPU_Optimizer-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome & GPU Optimizer" />
+  </a>
   <a href="https://github.com/mylnzon58/t2-macbook-pro-16-1-thermal-performance-fix-ubuntu" target="_blank">
     <img src="https://img.shields.io/badge/Apple_T2-Thermal_%26_Kernel_Fix-E95420?style=for-the-badge&logo=linux&logoColor=white" alt="Thermal Performance Fix" />
   </a>
@@ -141,6 +144,19 @@ Investigación aplicada, depuración a bajo nivel del kernel y desarrollo de dri
 
 <p align="center">
   <img src="assets/t2-touchbar-touchid-horizontal.jpg" alt="Apple T2 Dynamic OLED Touch Bar and Touch ID Bridge" width="95%" />
+</p>
+
+#### 4. 🚀 Optimizador de Chrome, GPU AMD Wayland & Memoria zram (Eliminación de Swap Thrashing)
+* **Diagnóstico:** Saturación de 16 GB de RAM con Chrome + IDE y congelamientos del sistema por paginación en el swap de 2 GB en disco SSD NVMe. Adicionalmente, en Linux Wayland, Chrome renderizaba por software en la CPU a resolución Retina 3072x1920 sin aceleración VA-API en controladores Mesa .
+* **Soluciones Implementadas:**
+  - **Arquitectura zram con zstd:** Swap de 7.8 GB en RAM de ultra-alta velocidad (Prioridad 100) con ratio de compresión 3:1 y tuning de kernel `vm.swappiness=180` y `vm.page-cluster=0`, eliminando el 100% de la latencia de disco NVMe y protegiendo el SSD interno soldado.
+  - **Políticas Empresariales Chrome:** Descarte agresivo de pestañas inactivas (`HighEfficiencyModeEnabled` y `MemorySaverModeSavings: 2`), recuperando entre 4 y 6 GB de RAM.
+  - **Aceleración Gráfica Zero-Copy en AMD Radeon Pro 5500M:** Banderas optimizadas Wayland (`VaapiVideoDecoder`, `CanvasOopRasterization`, `--enable-zero-copy`), logrando 60 FPS estables en pantalla Retina y liberando la CPU durante reproducción de video 4K.
+* 📦 **Repositorio:** [`mylnzon58/t2-chrome-gpu-memory-optimizer-ubuntu-24`](https://github.com/mylnzon58/t2-chrome-gpu-memory-optimizer-ubuntu-24)
+* 🌐 **Issues Upstream:** [AdityaGarg8/t2-ubuntu-repo #45](https://github.com/AdityaGarg8/t2-ubuntu-repo/issues/45) · [t2linux/T2-Ubuntu #224](https://github.com/t2linux/T2-Ubuntu/issues/224)
+
+<p align="center">
+  <img src="assets/t2-chrome-gpu-optimizer-horizontal.jpg" alt="Apple T2 Chrome, GPU and zram Performance Optimizer" width="95%" />
 </p>
 
 ---
