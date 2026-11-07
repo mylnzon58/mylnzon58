@@ -1,4 +1,4 @@
-# Hola, soy [Juan Monzón](https://www.linkedin.com/in/juan-m-97b85681/) 🇦🇷 👋
+# Hola, soy [Juan José Monzón](https://www.linkedin.com/in/juan-m-97b85681/) 🇦🇷 👋
 
 **Full Stack Developer & Digital Product Builder | AI, Growth & Conversion Engineering**  
 📍 Argentina 🇦🇷
@@ -40,13 +40,13 @@
 
 ### 🚀 Sobre mí / About Me
 
-Soy **Juan Monzón**, desarrollador Full Stack, creador de productos digitales y orgulloso padre de dos niños 🇦🇷👨‍👧‍👦. Intento vivir cada día de lo que amo: construir software con propósito, diseñar experiencias digitales de alto impacto y aportar soluciones abiertas que resuelvan problemas reales en la comunidad.
+Soy **Juan José Monzón**, desarrollador Full Stack, creador de productos digitales, argentino y orgulloso padre de una niña y un niño pequeño 🇦🇷👨‍👧‍👦. Intento vivir cada día de lo que amo: construir software con propósito, diseñar experiencias digitales de alto impacto y aportar soluciones abiertas que resuelvan problemas reales en la comunidad.
 
 Cuento con más de **9 años de experiencia** llevando productos desde la concepción hasta producción. Hoy en día, **las bases sólidas de la programación tradicional apalancadas con la potencia de la inteligencia artificial moderna y el aprendizaje continuo están transformando mi vida y mi manera de crear**. Este camino no lo recorro solo: estoy profundamente agradecido con mis amigos programadores, ingenieros y mentores de la comunidad técnica por el apoyo incondicional, el intercambio diario de conocimiento y el aliento constante.
 
 Me apasiona crear, automatizar y escalar productos digitales conectando la **adquisición de usuarios** con la **experiencia de producto (PX)** y la **conversión (CRO)**, tomando decisiones fundamentadas en arquitectura limpia, datos, métricas y resultados medibles.
 
-> *Full Stack Developer, digital product builder, and proud father of two based in Argentina 🇦🇷. I strive to make a living doing what I love: crafting purposeful software, engineering conversion-focused products, and publishing open-source solutions for the community. Solid programming fundamentals leveraged with cutting-edge AI and continuous learning are genuinely transforming my life and craft. Deeply grateful to fellow developers, engineers, and mentors whose generous support, guidance, and camaraderie make this journey possible.*
+> *Full Stack Developer, digital product builder, Argentine, and proud father of a young daughter and son 🇦🇷👨‍👧‍👦. I strive to make a living doing what I love: crafting purposeful software, engineering conversion-focused products, and publishing open-source solutions for the community. Solid programming fundamentals leveraged with cutting-edge AI and continuous learning are genuinely transforming my life and craft. Deeply grateful to fellow developers, engineers, and mentors whose generous support, guidance, and camaraderie make this journey possible.*
 
 ---
 
