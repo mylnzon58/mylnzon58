@@ -40,13 +40,13 @@
 
 ### 🚀 Sobre mí / About Me
 
-Soy **Juan José Monzón**, desarrollador Full Stack, creador de productos digitales, argentino y orgulloso padre de una niña y un niño pequeño 🇦🇷👨‍👧‍👦. Intento vivir cada día de lo que amo: construir software con propósito, diseñar experiencias digitales de alto impacto y aportar soluciones abiertas que resuelvan problemas reales en la comunidad.
+Soy **Full Stack Developer y creador de productos digitales**, con más de **9 años de experiencia** construyendo, desplegando y monetizando software en producción. Combino desarrollo de software, IA aplicada, diseño de producto y visión de negocio para transformar ideas desde su concepción hasta soluciones operativas, escalables y rentables.
 
-Cuento con más de **9 años de experiencia** llevando productos desde la concepción hasta producción. Hoy en día, **las bases sólidas de la programación tradicional apalancadas con la potencia de la inteligencia artificial moderna y el aprendizaje continuo están transformando mi vida y mi manera de crear**. Este camino no lo recorro solo: estoy profundamente agradecido con mis amigos programadores, ingenieros y mentores de la comunidad técnica por el apoyo incondicional, el intercambio diario de conocimiento y el aliento constante.
+Me apasiona crear, automatizar y escalar productos digitales conectando la **adquisición de usuarios** con la **experiencia de producto (PX)** y la **conversión**, tomando decisiones fundamentadas en datos, métricas y resultados medibles.
 
-Me apasiona crear, automatizar y escalar productos digitales conectando la **adquisición de usuarios** con la **experiencia de producto (PX)** y la **conversión (CRO)**, tomando decisiones fundamentadas en arquitectura limpia, datos, métricas y resultados medibles.
+En el plano personal, soy argentino y orgulloso padre de una niña y un niño pequeño 🇦🇷👨‍👧‍👦. Las bases sólidas de la programación tradicional apalancadas con la potencia de la inteligencia artificial moderna y el aprendizaje continuo están transformando mi vida profesional y mi manera de crear. Eternamente agradecido con mis amigos programadores, ingenieros y colegas de la comunidad por el apoyo incondicional y las horas de aprendizaje compartido.
 
-> *Full Stack Developer, digital product builder, Argentine, and proud father of a young daughter and son 🇦🇷👨‍👧‍👦. I strive to make a living doing what I love: crafting purposeful software, engineering conversion-focused products, and publishing open-source solutions for the community. Solid programming fundamentals leveraged with cutting-edge AI and continuous learning are genuinely transforming my life and craft. Deeply grateful to fellow developers, engineers, and mentors whose generous support, guidance, and camaraderie make this journey possible.*
+> *Full Stack Developer and Digital Product Builder with 9+ years of experience engineering, deploying, and monetizing software. I bridge software engineering, applied AI, and user acquisition with product experience (PX) and conversion rate optimization (CRO) to turn concepts into profitable, scalable production platforms. On a personal note, I am an Argentine developer and proud father of a young daughter and son; solid programming foundations leveraged with modern AI and continuous learning are genuinely transforming my journey, backed by the generous support of fellow engineers, mentors, and friends in tech.*
 
 ---
 
