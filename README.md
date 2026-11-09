@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="assets/juan-monzon-hero-cover.jpg" alt="Juan José Monzón - AI Product & Full Stack Developer" width="100%" />
+</p>
+
 # Hola, soy [Juan José Monzón](https://www.linkedin.com/in/juan-m-97b85681/) 🇦🇷 👋
 
-**Full Stack Developer & Digital Product Builder | AI, Growth & Conversion Engineering**  
+**Full Stack Developer & AI Product Builder | Growth, Conversion & Applied AI**  
 📍 Argentina 🇦🇷
 
 <p align="left">
@@ -46,7 +50,7 @@ Me apasiona crear, automatizar y escalar productos digitales conectando la **adq
 
 En el plano personal, soy argentino y orgulloso padre de una niña y un niño pequeño 🇦🇷👨‍👧‍👦. Las bases sólidas de la programación tradicional apalancadas con la potencia de la inteligencia artificial moderna y el aprendizaje continuo están transformando mi vida profesional y mi manera de crear. Eternamente agradecido con mis amigos programadores, ingenieros y colegas de la comunidad por el apoyo incondicional y las horas de aprendizaje compartido.
 
-> *Full Stack Developer and Digital Product Builder with 9+ years of experience engineering, deploying, and monetizing software. I bridge software engineering, applied AI, and user acquisition with product experience (PX) and conversion rate optimization (CRO) to turn concepts into profitable, scalable production platforms. On a personal note, I am an Argentine developer and proud father of a young daughter and son; solid programming foundations leveraged with modern AI and continuous learning are genuinely transforming my journey, backed by the generous support of fellow engineers, mentors, and friends in tech.*
+> *Full Stack Developer and AI Product Builder with 9+ years of experience building, deploying, and monetizing software. I bridge product architecture, applied AI, and user acquisition with product experience (PX) and conversion rate optimization (CRO) to turn concepts into profitable, scalable production platforms. On a personal note, I am an Argentine developer and proud father of a young daughter and son; solid programming foundations leveraged with modern AI and continuous learning are genuinely transforming my journey, backed by the generous support of fellow developers, mentors, and friends in tech.*
 
 ---
 
@@ -112,7 +116,7 @@ Conecto la ingeniería con la tracción real del producto mediante una gestión 
 
 ---
 
-### 🍏 Hardware & Kernel Engineering: Ecosistema Apple T2 en Linux (Ubuntu 24.04 LTS)
+### 🍏 Hardware & Kernel Diagnostics: Ecosistema Apple T2 en Linux (Ubuntu 24.04 LTS)
 
 Investigación aplicada, depuración a bajo nivel del kernel y desarrollo de drivers/puentes userspace en **Rust, C y Shell** para la serie **Apple MacBook Pro con chip de seguridad T2 (Modelo A2141)**, desbloqueando el 100% de capacidades del hardware bajo **Ubuntu 24.04 LTS (Noble Numbat)** y superando la obsolescencia programada:
 
@@ -160,6 +164,25 @@ Investigación aplicada, depuración a bajo nivel del kernel y desarrollo de dri
 <p align="center">
   <img src="assets/t2-chrome-gpu-optimizer-horizontal.jpg" alt="Apple T2 Chrome, GPU and zram Performance Optimizer" width="95%" />
 </p>
+
+#### 5. 🧠 Filosofía & Manifiesto: La IA como Gran Ecualizador en el Código de Bajo Nivel (C, Assembler & Kernel)
+
+<p align="center">
+  <img src="assets/linus-torvalds-kernel-ai-synergy.jpg" alt="La Evolución del Código - Kernel & AI Synergy" width="95%" />
+</p>
+
+> *«Linux no es uno de esos proyectos anti-IA y, si alguien tiene problemas con eso, puede hacer lo propio del código abierto y crear un fork. O simplemente marcharse. La IA es una herramienta, igual que otras herramientas que usamos. Y está claro que es útil».*  
+> — **Linus Torvalds**
+
+Durante décadas, el desarrollo a bajo nivel —drivers de kernel, volcados de registros en **Assembler (x86_64)**, buffers y workqueues en **C**, puentes con el Secure Enclave en **Rust** y grafos de audio **DSP**— estuvo rodeado de una barrera elitista donde a menudo primó el ego o la resistencia al cambio por sobre la apertura a la comunidad.
+
+La investigación y estabilización del hardware Apple T2 bajo Linux demuestra una realidad transformadora: **la Inteligencia Artificial bien dirigida actúa como el gran ecualizador del conocimiento tecnológico**:
+
+* **Democratización Técnica:** Permite a un desarrollador y creador de producto auditar código de kernel en C, analizar instrucciones en Assembler y descifrar subsistemas de hardware para encontrar soluciones lógicas y estables que antes tomaban meses o se descartaban por prejuicios.
+* **Sinergia Humano + IA:** La IA no sustituye el criterio ni la visión de producto; actúa como un multiplicador cognitivo que permite a quien sabe formular las preguntas correctas resolver problemas complejos de raíz.
+* **El Valor Está en la Solución:** La tecnología no avanza para defender el estatus de unos pocos, sino para quienes la usan como herramienta de construcción para mejorar la experiencia de los usuarios reales.
+
+> *“Linux is not one of those anti-AI projects, and if somebody has problems with that, they can do what is normal in open source and fork. Or just leave. AI is a tool, just like other tools we use. And it clearly is useful.”* — **Linus Torvalds**
 
 ---
 
