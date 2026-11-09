@@ -165,24 +165,16 @@ Investigación aplicada, depuración a bajo nivel del kernel y desarrollo de dri
   <img src="assets/t2-chrome-gpu-optimizer-horizontal.jpg" alt="Apple T2 Chrome, GPU and zram Performance Optimizer" width="95%" />
 </p>
 
-#### 5. 🧠 Filosofía & Manifiesto: La IA como Gran Ecualizador en el Código de Bajo Nivel (C, Assembler & Kernel)
+<details>
+  <summary>💭 <b>Reflexión & Artículo: La Evolución del Código — Sinergia entre Kernel, C/Assembler y la IA</b></summary>
+  <br/>
 
-<p align="center">
-  <img src="assets/linus-torvalds-kernel-ai-synergy.jpg" alt="La Evolución del Código - Kernel & AI Synergy" width="95%" />
-</p>
+  > *«Linux no es uno de esos proyectos anti-IA y, si alguien tiene problemas con eso, puede hacer lo propio del código abierto y crear un fork. O simplemente marcharse. La IA es una herramienta, igual que otras herramientas que usamos. Y está claro que es útil».* — **Linus Torvalds**
 
-> *«Linux no es uno de esos proyectos anti-IA y, si alguien tiene problemas con eso, puede hacer lo propio del código abierto y crear un fork. O simplemente marcharse. La IA es una herramienta, igual que otras herramientas que usamos. Y está claro que es útil».*  
-> — **Linus Torvalds**
+  Una reflexión sobre la democratización del código de bajo nivel (C, Assembler x86_64, Rust y grafos DSP), el avance del software libre y el valor de las soluciones prácticas por sobre el estatus.
 
-Durante décadas, el desarrollo a bajo nivel —drivers de kernel, volcados de registros en **Assembler (x86_64)**, buffers y workqueues en **C**, puentes con el Secure Enclave en **Rust** y grafos de audio **DSP**— estuvo rodeado de una barrera elitista donde a menudo primó el ego o la resistencia al cambio por sobre la apertura a la comunidad.
-
-La investigación y estabilización del hardware Apple T2 bajo Linux demuestra una realidad transformadora: **la Inteligencia Artificial bien dirigida actúa como el gran ecualizador del conocimiento tecnológico**:
-
-* **Democratización Técnica:** Permite a un desarrollador y creador de producto auditar código de kernel en C, analizar instrucciones en Assembler y descifrar subsistemas de hardware para encontrar soluciones lógicas y estables que antes tomaban meses o se descartaban por prejuicios.
-* **Sinergia Humano + IA:** La IA no sustituye el criterio ni la visión de producto; actúa como un multiplicador cognitivo que permite a quien sabe formular las preguntas correctas resolver problemas complejos de raíz.
-* **El Valor Está en la Solución:** La tecnología no avanza para defender el estatus de unos pocos, sino para quienes la usan como herramienta de construcción para mejorar la experiencia de los usuarios reales.
-
-> *“Linux is not one of those anti-AI projects, and if somebody has problems with that, they can do what is normal in open source and fork. Or just leave. AI is a tool, just like other tools we use. And it clearly is useful.”* — **Linus Torvalds**
+  👉 **[Leer artículo completo con análisis técnico »](posts/la-evolucion-del-codigo.md)**
+</details>
 
 ---
 
