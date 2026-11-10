@@ -29,6 +29,9 @@
   <a href="https://chromewebstore.google.com/detail/ofiokicamkblihcegnjnjngfooehhgfk?utm_source=item-share-cb" target="_blank">
     <img src="https://img.shields.io/badge/Chrome_Web_Store-Extensi%C3%B3n_Publicada-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store Extension" />
   </a>
+  <a href="https://github.com/mylnzon58/tuxbar" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%90%A7_TuxBar-Dynamic_Touch_Bar_Engine-77216F?style=for-the-badge&logo=rust&logoColor=white" alt="TuxBar - Dynamic Apple Touch Bar Engine" />
+  </a>
   <a href="https://github.com/mylnzon58/t2-touchid-touchbar-bridge-ubuntu-24" target="_blank">
     <img src="https://img.shields.io/badge/Apple_T2-Touch_Bar_%26_Touch_ID-10B981?style=for-the-badge&logo=apple&logoColor=white" alt="Touch Bar & Touch ID Bridge" />
   </a>
@@ -218,16 +221,13 @@ Investigación aplicada, depuración y desarrollo de soluciones, parches y puent
   <img src="assets/t2-chrome-gpu-optimizer-horizontal.jpg" alt="Apple T2 Chrome, GPU and zram Performance Optimizer" width="95%" />
 </p>
 
-<details>
-  <summary>💭 <b>Reflexión & Artículo: La Evolución del Código — Sinergia entre Kernel, C/Assembler y la IA</b></summary>
-  <br/>
-
-  > *«Linux no es uno de esos proyectos anti-IA y, si alguien tiene problemas con eso, puede hacer lo propio del código abierto y crear un fork. O simplemente marcharse. La IA es una herramienta, igual que otras herramientas que usamos. Y está claro que es útil».* — **Linus Torvalds**
-
-  Una reflexión sobre la democratización del código de bajo nivel (C, Assembler x86_64, Rust y grafos DSP), el avance del software libre y el valor de las soluciones prácticas por sobre el estatus.
-
-  👉 **[Leer artículo completo con análisis técnico »](posts/la-evolucion-del-codigo.md)**
-</details>
+#### 5. 🐧 TuxBar: Motor Dinámico de Widgets en Pure-Rust para la Touch Bar (DRM KMS + PipeWire + MPRIS)
+* **Diagnóstico:** En Linux, la Touch Bar se limitaba a un teclado estático inerte (`tiny-dfr`) sin interactividad ni widgets vivos.
+* **Soluciones Implementadas:**
+  - **Arquitectura en Pure-Rust (Cero Dependencias C):** Renderizado directo sobre DRM KMS Dumb Buffers a 2008×60 px con tipografía vectorial de alta definición.
+  - **Ecualizador y Decibeles Reales de PipeWire:** Monitoreo pasivo de flujo PCM (`@DEFAULT_AUDIO_SINK@`) calculando decibeles reales (`dBFS`), 32 bandas de frecuencia y flatline instantáneo en pausa o silencio.
+  - **Control MPRIS y Photo Scrubber Táctil:** Enlace dinámico con Spotify/Chromium/VLC, scrubber de capturas de pantalla con apertura directa en el escritorio y conmutación en caliente sin reiniciar (`tuxbar-toggle`).
+* 📦 **Repositorio:** [`mylnzon58/tuxbar`](https://github.com/mylnzon58/tuxbar) | 📄 [Documentación Técnica & Capturas Reales](https://mylnzon58.github.io/tuxbar/) | 🚀 [Release v0.2.0 (.deb)](https://github.com/mylnzon58/tuxbar/releases/tag/v0.2.0)
 
 ---
 
