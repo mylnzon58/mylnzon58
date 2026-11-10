@@ -14,6 +14,9 @@
   <a href="https://www.instagram.com/juanjoclassic/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%40juanjoclassic-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram - @juanjoclassic" />
   </a>
+  <a href="https://cheya-app.pages.dev" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8E%99%EF%B8%8F_CheYa_AI-cheya--app.pages.dev-10B981?style=for-the-badge&logoColor=white" alt="CheYa AI - cheya-app.pages.dev" />
+  </a>
   <a href="https://anuncero.press" target="_blank">
     <img src="https://img.shields.io/badge/%F0%9F%9A%80_Anuncero-anuncero.press-7C3AED?style=for-the-badge&logoColor=white" alt="Anuncero - anuncero.press" />
   </a>
@@ -34,6 +37,12 @@
   </a>
   <a href="https://github.com/mylnzon58/t2-macbook-pro-16-1-thermal-performance-fix-ubuntu" target="_blank">
     <img src="https://img.shields.io/badge/Apple_T2-Thermal_%26_Kernel_Fix-E95420?style=for-the-badge&logo=linux&logoColor=white" alt="Thermal Performance Fix" />
+  </a>
+  <a href="https://github.com/mylnzon58" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-mylnzon58-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - @mylnzon58" />
+  </a>
+  <a href="https://github.com/sponsors/mylnzon58" target="_blank">
+    <img src="https://img.shields.io/badge/Sponsor-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Sponsors - @mylnzon58" />
   </a>
   <a href="https://tecito.app/juanjoclassic" target="_blank">
     <img src="https://img.shields.io/badge/%E2%98%95_Donar_un_Tecito-tecito.app%2Fjuanjoclassic-FF813F?style=for-the-badge&logoColor=white" alt="Donar un Tecito - tecito.app/juanjoclassic" />
@@ -93,6 +102,50 @@ Conecto la ingeniería con la tracción real del producto mediante una gestión 
 
 ### 🧩 Productos Digitales, Plataformas SaaS y Aportes Open-Source
 
+- 🎙️ **[CheYa AI — `cheya-app.pages.dev`](https://cheya-app.pages.dev)** *(SaaS en producción · App Android + Cloudflare Edge)*  
+  **Asistente de inteligencia artificial para audios y productividad en WhatsApp.** Resuelve la saturación de notas de voz largas, captura compromisos en Google Calendar con un solo toque y permite responder por voz con síntesis natural mientras conduces o trabajas.
+
+<p align="center">
+  <img src="assets/cheya-banner.png" alt="CheYa AI - Asistente de Audio e Inteligencia Artificial para WhatsApp" width="100%" />
+</p>
+
+#### Casos de uso y capacidades principales
+- **Resumen en 8 segundos:** Procesa notas de voz extensas y extrae las ideas centrales, decisiones tomadas y puntos de acción inmediatos.
+- **Modo manos libres en ruta:** Lectura automática y reproducción en auriculares bluetooth o altavoz mientras manejas o estás ocupado.
+- **Transcripción fiel y respuesta por voz:** Conversión de voz a texto de alta precisión y síntesis de respuesta generada con entonación natural.
+- **Agenda inteligente en 1 toque:** Detecta fechas, reuniones y turnos mencionados en audios para sincronizarlos en Google Calendar sin salir del chat.
+- **Comprobantes y capturas:** Extrae montos, fechas, nombres y datos clave de tickets o transferencias bancarias enviadas como imagen.
+- **Privacidad y Zero-Knowledge:** Procesamiento efímero en Cloudflare Workers Edge. No se almacenan historiales de conversación ni audios en servidores.
+
+#### Capturas reales de la aplicación (Android Nativo)
+<p align="center">
+  <img src="assets/01-resumen-instantaneo-1080x1920.png" width="23%" alt="Resumen instantáneo" />
+  <img src="assets/02-modo-manos-libres-1080x1920.png" width="23%" alt="Modo manos libres" />
+  <img src="assets/03-transcripcion-fiel-1080x1920.png" width="23%" alt="Transcripción fiel" />
+  <img src="assets/04-agenda-1-toque-1080x1920.png" width="23%" alt="Agenda en 1 toque" />
+</p>
+<p align="center">
+  <img src="assets/05-fotos-y-comprobantes-1080x1920.png" width="23%" alt="Fotos y comprobantes" />
+  <img src="assets/06-ajustes-voz-ia-1080x1920.png" width="23%" alt="Ajustes de voz IA" />
+  <img src="assets/07-panel-web-qr-1080x1920.png" width="23%" alt="Panel Web y QR" />
+  <img src="assets/08-privacidad-total-1080x1920.png" width="23%" alt="Privacidad total" />
+</p>
+
+#### Descarga directa y guía de instalación (Sideloading)
+La aplicación se encuentra disponible para descarga directa en formato APK mientras concluye la homologación en Google Play Store:
+
+🌐 **Acceso Web y cuenta:** [cheya-app.pages.dev](https://cheya-app.pages.dev)  
+📦 **Descarga APK directa:** [cheya-app.pages.dev/cheya-app.apk](https://cheya-app.pages.dev/cheya-app.apk)
+
+> **Instrucciones para instalar en Android:**
+> 1. **Permitir fuentes desconocidas:** Al abrir el APK desde Chrome, Gestor de Archivos o WhatsApp, el sistema solicitará autorización para instalar aplicaciones de esta fuente; presiona *Ajustes* y activa la casilla.
+> 2. **Aviso de Google Play Protect:** Al tratarse de un APK nuevo distribuido fuera de la tienda oficial, Play Protect puede mostrar una advertencia preventiva. Toca en **"Más detalles"** y selecciona **"Instalar de todas formas"**.
+> 3. **Ajustes restringidos (Android 13 y 14):** Para que la app pueda leer notificaciones entrantes de audio:
+>    - Ve a *Ajustes del teléfono > Aplicaciones > CheYa*.
+>    - Toca los **tres puntos (⋮)** en la esquina superior derecha.
+>    - Selecciona **"Permitir ajustes restringidos"** y confirma con tu huella o PIN.
+>    - Vuelve a la app para activar el acceso a notificaciones.
+
 - 🚀 **[Anuncero — `anuncero.press`](https://anuncero.press)** *(En desarrollo activo)*  
   **Infraestructura tecnológica publicitaria.** Conectamos medios y anunciantes mediante tecnología de autoservicio (*self-serve AdTech*), diseñada para transformar y simplificar la forma en que se compra y vende publicidad digital.
 
@@ -118,7 +171,7 @@ Conecto la ingeniería con la tracción real del producto mediante una gestión 
 
 ### 🍏 Hardware & Kernel Diagnostics: Ecosistema Apple T2 en Linux (Ubuntu 24.04 LTS)
 
-Investigación aplicada, depuración a bajo nivel del kernel y desarrollo de drivers/puentes userspace en **Rust, C y Shell** para la serie **Apple MacBook Pro con chip de seguridad T2 (Modelo A2141)**, desbloqueando el 100% de capacidades del hardware bajo **Ubuntu 24.04 LTS (Noble Numbat)** y superando la obsolescencia programada:
+Investigación aplicada, depuración y desarrollo de soluciones, parches y puentes userspace en **Rust, C y Shell** para la serie **Apple MacBook Pro con chip de seguridad T2 (Modelo A2141)**, potenciándome con inteligencia artificial a partir de mis bases de programación en C y sistemas para desbloquear el 100% de capacidades del hardware bajo **Ubuntu 24.04 LTS (Noble Numbat)** y superando la obsolescencia programada:
 
 #### 1. ⚡ Optimización Térmica, Rendimiento & Fix del Kernel (Intel i915 + HWP Asimétrico)
 * **Diagnóstico y Bug Detectado:** Identificación de cuellos de botella críticos en la cola de trabajo del driver `i915` (>10.000 µs de latencia tras suspensión) y estrangulamiento térmico agresivo por escalado simétrico plano de frecuencia.
@@ -193,8 +246,12 @@ Además de crear nuevos productos y plataformas SaaS, administro y optimizo infr
 
 ---
 
-### ☕ ¿Te sirvió alguna de mis herramientas o soluciones? / Support My Work
+### Comunidad y Soporte / Community
 
-Si alguna de mis herramientas, extensiones o soluciones *open-source* que comparto por aquí te ayudó a resolver un problema o te ahorró horas de trabajo, puedes invitarme un **Tecito** si deseas apoyar mis proyectos:
+Si alguno de mis proyectos open-source o herramientas técnicas te resultó útil en producción:
 
-👉 **[☕ Invitame un Tecito en https://tecito.app/juanjoclassic](https://tecito.app/juanjoclassic)**
+- **Repositorios y feedback:** Una estrella en [LiveFunnel](https://github.com/mylnzon58/livefunnel) o en los [parches de Apple T2 para Ubuntu](https://github.com/mylnzon58/t2-macbook-pro-16-1-thermal-performance-fix-ubuntu) ayuda a darles difusión en la comunidad técnica.
+- **Seguir perfil:** En [github.com/mylnzon58](https://github.com/mylnzon58) para nuevos lanzamientos de software y experimentos de sistemas.
+- **Patrocinio:** [GitHub Sponsors](https://github.com/sponsors/mylnzon58) para apoyar infraestructura y servidores independientes.
+- **Donaciones directas:** [tecito.app/juanjoclassic](https://tecito.app/juanjoclassic).
+- **Contacto profesional:** [LinkedIn](https://www.linkedin.com/in/juan-m-97b85681/) o a `mylnzon58@gmail.com`.
