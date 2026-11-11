@@ -47,6 +47,9 @@
   <a href="https://github.com/sponsors/mylnzon58" target="_blank">
     <img src="https://img.shields.io/badge/Sponsor-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Sponsors - @mylnzon58" />
   </a>
+  <a href="https://www.patreon.com/JuanjoClassic" target="_blank">
+    <img src="https://img.shields.io/badge/Patreon-Planes_para_Sponsors-FF424D?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon - Planes para Sponsors" />
+  </a>
   <a href="https://tecito.app/juanjoclassic" target="_blank">
     <img src="https://img.shields.io/badge/%E2%98%95_Donar_un_Tecito-tecito.app%2Fjuanjoclassic-FF813F?style=for-the-badge&logoColor=white" alt="Donar un Tecito - tecito.app/juanjoclassic" />
   </a>
@@ -253,5 +256,6 @@ Si alguno de mis proyectos open-source o herramientas técnicas te resultó úti
 - **Repositorios y feedback:** Una estrella en [LiveFunnel](https://github.com/mylnzon58/livefunnel) o en los [parches de Apple T2 para Ubuntu](https://github.com/mylnzon58/t2-macbook-pro-16-1-thermal-performance-fix-ubuntu) ayuda a darles difusión en la comunidad técnica.
 - **Seguir perfil:** En [github.com/mylnzon58](https://github.com/mylnzon58) para nuevos lanzamientos de software y experimentos de sistemas.
 - **Patrocinio:** [GitHub Sponsors](https://github.com/sponsors/mylnzon58) para apoyar infraestructura y servidores independientes.
+- **Planes para Sponsors (Patreon):** Para quienes deseen apoyar de forma recurrente el desarrollo y mantenimiento continuo de software open-source independiente, cuento con planes mensuales organizados para sponsors en **[patreon.com/JuanjoClassic](https://www.patreon.com/JuanjoClassic)** (desde planes Supporter y Open Source hasta Gold y Patrocinador Fundador).
 - **Donaciones directas:** [tecito.app/juanjoclassic](https://tecito.app/juanjoclassic).
 - **Contacto profesional:** [LinkedIn](https://www.linkedin.com/in/juan-m-97b85681/) o a `mylnzon58@gmail.com`.
