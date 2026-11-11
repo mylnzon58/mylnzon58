@@ -227,7 +227,7 @@ Investigación aplicada, depuración y desarrollo de soluciones, parches y puent
   - **Arquitectura en Pure-Rust (Cero Dependencias C):** Renderizado directo sobre DRM KMS Dumb Buffers a 2008×60 px con tipografía vectorial de alta definición.
   - **Ecualizador y Decibeles Reales de PipeWire:** Monitoreo pasivo de flujo PCM (`@DEFAULT_AUDIO_SINK@`) calculando decibeles reales (`dBFS`), 32 bandas de frecuencia y flatline instantáneo en pausa o silencio.
   - **Control MPRIS y Photo Scrubber Táctil:** Enlace dinámico con Spotify/Chromium/VLC, scrubber de capturas de pantalla con apertura directa en el escritorio y conmutación en caliente sin reiniciar (`tuxbar-toggle`).
-* 📦 **Repositorio:** [`mylnzon58/tuxbar`](https://github.com/mylnzon58/tuxbar) | 📄 [Documentación Técnica & Capturas Reales](https://mylnzon58.github.io/tuxbar/) | 🚀 [Release v0.2.0 (.deb)](https://github.com/mylnzon58/tuxbar/releases/tag/v0.2.0)
+* 📦 **Repositorio:** [`mylnzon58/tuxbar`](https://github.com/mylnzon58/tuxbar) | 📄 [Documentación Técnica & Capturas Reales](https://mylnzon58.github.io/tuxbar/) | 🚀 [Release v0.2.1 (.deb)](https://github.com/mylnzon58/tuxbar/releases/tag/v0.2.1)
 
 ---
 
