@@ -26,6 +26,9 @@
   <a href="https://github.com/mylnzon58/livefunnel" target="_blank">
     <img src="https://img.shields.io/badge/%E2%9A%A1_LiveFunnel-CRO_%26_3D_Analytics-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="LiveFunnel - Open Source CRO Engine" />
   </a>
+  <a href="https://github.com/mylnzon58/tiktok-live-games" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8E%AE_TikTok_LIVE-Interactive_Games_Hub-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok LIVE Interactive Games Hub" />
+  </a>
   <a href="https://chromewebstore.google.com/detail/ofiokicamkblihcegnjnjngfooehhgfk?utm_source=item-share-cb" target="_blank">
     <img src="https://img.shields.io/badge/Chrome_Web_Store-Extensi%C3%B3n_Publicada-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store Extension" />
   </a>
@@ -40,6 +43,9 @@
   </a>
   <a href="https://github.com/mylnzon58/t2-macbook-pro-16-1-thermal-performance-fix-ubuntu" target="_blank">
     <img src="https://img.shields.io/badge/Apple_T2-Thermal_%26_Kernel_Fix-E95420?style=for-the-badge&logo=linux&logoColor=white" alt="Thermal Performance Fix" />
+  </a>
+  <a href="https://github.com/mylnzon58/t2-macbook-pro-16-1-dsp-ubuntu-24.04" target="_blank">
+    <img src="https://img.shields.io/badge/Apple_T2-6--Speaker_Audio_DSP-0284C7?style=for-the-badge&logo=pipewire&logoColor=white" alt="Apple T2 6-Speaker Audio DSP" />
   </a>
   <a href="https://github.com/mylnzon58" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-mylnzon58-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - @mylnzon58" />
@@ -164,6 +170,12 @@ La aplicación se encuentra disponible para descarga directa en formato APK mien
 - ⚡ **[LiveFunnel — `mylnzon58/livefunnel`](https://github.com/mylnzon58/livefunnel)** *(Open Source · Apache 2.0)*  
   **Motor de embudos de conversión (CRO) en tiempo real, globo 3D interactivo y trazabilidad forense de sesiones para Next.js & Supabase.** Permite visualizar actividad global en vivo sin depender de APIs externas de mapas, auditar el recorrido paso a paso de cada usuario antes de comprar o abandonar, medir ingresos (pago único o suscripciones) y proteger la cuota gratuita (*Free Tier*) mediante agregación SQL directa en PostgreSQL.
 
+- 🎮 **[TikTok LIVE Interactive Games Hub — `mylnzon58/tiktok-live-games`](https://github.com/mylnzon58/tiktok-live-games)** *(Open Source · Node.js & WebSockets)*  
+  **Plataforma de juegos interactivos y batallas en tiempo real para streamers de TikTok LIVE**, diseñada como *Browser Source* de latencia ultra-baja para OBS Studio, Streamlabs y TikTok LIVE Studio.  
+  - 🕹️ **Múltiples dinámicas integradas:** Guerra de Titanes (tira y afloja por equipos con gifts), Plinko de Avatares (física en pirámide con multiplicador x10), Tap Tap Arena (combate PvP clásico con HP y sierras), Versus de Chat y Carrera de Avatares en vivo.  
+  - ⚡ **Arquitectura desacoplada en tiempo real:** Normalización de eventos del LIVE, resolución de tiers de regalos (*diamondCount*), catálogo extensible y persistencia de estado sin cortes de transmisión.  
+  - 🌐 **Landing y Demo interactiva:** [mylnzon58.github.io/tiktok-live-games](https://mylnzon58.github.io/tiktok-live-games/)
+
 - 🌐 **[Extensión de Texto a Voz (TTS) en Chrome Web Store](https://chromewebstore.google.com/detail/ofiokicamkblihcegnjnjngfooehhgfk?utm_source=item-share-cb)** *(100% Gratuita · ~1.000 Usuarios Activos Semanales)*  
   **Convierte cualquier texto seleccionado de páginas web en audio al instante.** Diseñada para profesionales y estudiantes que necesitan ahorrar tiempo y hacer multitarea escuchando artículos, noticias, documentación o fragmentos marcados mientras realizan otras actividades.  
   - 📈 **Tracción y adopción:** Base sólida y sostenida de **casi 1.000 usuarios activos semanales (~982 WAU)** con alta retención en el panel oficial de desarrolladores de Google.  
@@ -230,7 +242,7 @@ Investigación aplicada, depuración y desarrollo de soluciones, parches y puent
   - **Arquitectura en Pure-Rust (Cero Dependencias C):** Renderizado directo sobre DRM KMS Dumb Buffers a 2008×60 px con tipografía vectorial de alta definición.
   - **Ecualizador y Decibeles Reales de PipeWire:** Monitoreo pasivo de flujo PCM (`@DEFAULT_AUDIO_SINK@`) calculando decibeles reales (`dBFS`), 32 bandas de frecuencia y flatline instantáneo en pausa o silencio.
   - **Control MPRIS y Photo Scrubber Táctil:** Enlace dinámico con Spotify/Chromium/VLC, scrubber de capturas de pantalla con apertura directa en el escritorio y conmutación en caliente sin reiniciar (`tuxbar-toggle`).
-* 📦 **Repositorio:** [`mylnzon58/tuxbar`](https://github.com/mylnzon58/tuxbar) | 📄 [Documentación Técnica & Capturas Reales](https://mylnzon58.github.io/tuxbar/) | 🚀 [Release v0.2.1 (.deb)](https://github.com/mylnzon58/tuxbar/releases/tag/v0.2.1)
+* 📦 **Repositorio:** [`mylnzon58/tuxbar`](https://github.com/mylnzon58/tuxbar) | 📄 [Documentación Técnica & Capturas Reales](https://mylnzon58.github.io/tuxbar/) | 🚀 [Release v0.2.6 (.deb)](https://github.com/mylnzon58/tuxbar/releases/tag/v0.2.6)
 
 ---
 
@@ -253,7 +265,7 @@ Además de crear nuevos productos y plataformas SaaS, administro y optimizo infr
 
 Si alguno de mis proyectos open-source o herramientas técnicas te resultó útil en producción:
 
-- **Repositorios y feedback:** Una estrella en [LiveFunnel](https://github.com/mylnzon58/livefunnel) o en los [parches de Apple T2 para Ubuntu](https://github.com/mylnzon58/t2-macbook-pro-16-1-thermal-performance-fix-ubuntu) ayuda a darles difusión en la comunidad técnica.
+- **Repositorios y feedback:** Una estrella en [TuxBar](https://github.com/mylnzon58/tuxbar), [LiveFunnel](https://github.com/mylnzon58/livefunnel), [TikTok LIVE Games](https://github.com/mylnzon58/tiktok-live-games) o en los [parches de Apple T2 para Ubuntu](https://github.com/mylnzon58/t2-macbook-pro-16-1-thermal-performance-fix-ubuntu) ayuda a darles difusión en la comunidad técnica.
 - **Seguir perfil:** En [github.com/mylnzon58](https://github.com/mylnzon58) para nuevos lanzamientos de software y experimentos de sistemas.
 - **Patrocinio:** [GitHub Sponsors](https://github.com/sponsors/mylnzon58) para apoyar infraestructura y servidores independientes.
 - **Planes para Sponsors (Patreon):** Para quienes deseen apoyar de forma recurrente el desarrollo y mantenimiento continuo de software open-source independiente, cuento con planes mensuales organizados para sponsors en **[patreon.com/JuanjoClassic](https://www.patreon.com/JuanjoClassic)** (desde planes Supporter y Open Source hasta Gold y Patrocinador Fundador).
