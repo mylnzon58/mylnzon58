@@ -44,6 +44,9 @@
   <a href="https://github.com/mylnzon58/t2-macbook-pro-16-1-thermal-performance-fix-ubuntu" target="_blank">
     <img src="https://img.shields.io/badge/Apple_T2-Thermal_%26_Kernel_Fix-E95420?style=for-the-badge&logo=linux&logoColor=white" alt="Thermal Performance Fix" />
   </a>
+  <a href="https://github.com/mylnzon58/t2-macbook-pro-16-1-thermal-performance-fix-macos" target="_blank">
+    <img src="https://img.shields.io/badge/Apple_T2_macOS-Ring--0_HWP_%26_Thermal_Fix-C9A45A?style=for-the-badge&logo=apple&logoColor=white" alt="macOS Ring-0 Thermal Performance Fix" />
+  </a>
   <a href="https://github.com/mylnzon58/t2-macbook-pro-16-1-dsp-ubuntu-24.04" target="_blank">
     <img src="https://img.shields.io/badge/Apple_T2-6--Speaker_Audio_DSP-0284C7?style=for-the-badge&logo=pipewire&logoColor=white" alt="Apple T2 6-Speaker Audio DSP" />
   </a>
@@ -187,9 +190,9 @@ La aplicación se encuentra disponible para descarga directa en formato APK mien
 
 ---
 
-### 🍏 Hardware & Kernel Diagnostics: Ecosistema Apple T2 en Linux (Ubuntu 24.04 LTS)
+### 🍏 Hardware & Kernel Diagnostics: Ecosistema Apple T2 en macOS y Linux
 
-Investigación aplicada, depuración y desarrollo de soluciones, parches y puentes userspace en **Rust, C y Shell** para la serie **Apple MacBook Pro con chip de seguridad T2 (Modelo A2141)**, potenciándome con inteligencia artificial a partir de mis bases de programación en C y sistemas para desbloquear el 100% de capacidades del hardware bajo **Ubuntu 24.04 LTS (Noble Numbat)** y superando la obsolescencia programada:
+Investigación aplicada, pruebas con precaución y desarrollo de herramientas abiertas en **C, C++, Rust y Shell** para la **Apple MacBook Pro de 16 pulgadas de finales de 2019, modelo A2141 con procesador Intel Core i7-9750H y chip Apple T2**, apoyándome en inteligencia artificial a partir de mis bases de programación para analizar a detalle el hardware y compartir soluciones medibles:
 
 #### 1. ⚡ Optimización Térmica, Rendimiento & Fix del Kernel (Intel i915 + HWP Asimétrico)
 * **Diagnóstico y Bug Detectado:** Identificación de cuellos de botella críticos en la cola de trabajo del driver `i915` (>10.000 µs de latencia tras suspensión) y estrangulamiento térmico agresivo por escalado simétrico plano de frecuencia.
@@ -244,6 +247,19 @@ Investigación aplicada, depuración y desarrollo de soluciones, parches y puent
   - **Control MPRIS y Photo Scrubber Táctil:** Enlace dinámico con Spotify/Chromium/VLC, scrubber de capturas de pantalla con apertura directa en el escritorio y conmutación en caliente sin reiniciar (`tuxbar-toggle`).
 * 📦 **Repositorio:** [`mylnzon58/tuxbar`](https://github.com/mylnzon58/tuxbar) | 📄 [Documentación Técnica & Capturas Reales](https://mylnzon58.github.io/tuxbar/) | 🚀 [Release v0.2.6 (.deb)](https://github.com/mylnzon58/tuxbar/releases/tag/v0.2.6)
 
+#### 6. Control Térmico y Herramienta de Medición en macOS para MacBook Pro 16,1 A2141
+* **Propósito y contexto:** De fábrica, macOS prioriza el silencio de los ventiladores hasta temperaturas altas y reparte la misma frecuencia en todos los núcleos. Con los años de uso o al conectar un monitor externo que enciende la gráfica dedicada AMD, el equipo suele trabajar cerca de los 90 °C en reposo y perder velocidad bajo carga.
+* **Qué hace la herramienta y cómo se mide:**
+  - Desarrollada con precaución combinando análisis detallado de bajo nivel con apoyo de inteligencia artificial, pensada exclusivamente para el modelo **MacBookPro16,1 A2141 con procesador Core i7-9750H**.
+  - Mantiene el núcleo 0 a un máximo de 3.2 GHz para aliviar el calor en el borde del chip, deja los núcleos 1 al 5 libres hasta 4.5 GHz, adelanta suavemente los ventiladores desde los 55 °C y acompasa la potencia del procesador cuando la gráfica AMD está activa.
+  - Incluye la utilidad de consola `a2141-ctl` y la aplicación visual nativa **A2141 Monitor** para que cada usuario pueda ver en vivo los 6 núcleos, 3 gráficas en tiempo real y medir su temperatura y rendimiento en una prueba de 15 segundos antes y después de activarla. En nuestra unidad de pruebas pasó de **89.8 °C a 64.7 °C en reposo**, de **99.0 °C a 79.3 °C en carga sostenida** y de **68.01 a 80.03 GigaFLOPs/s**.
+* **Repositorio del Driver:** [`mylnzon58/t2-macbook-pro-16-1-thermal-performance-fix-macos`](https://github.com/mylnzon58/t2-macbook-pro-16-1-thermal-performance-fix-macos) | **Guía Web:** [mylnzon58.github.io/t2-macbook-pro-16-1-thermal-performance-fix-macos](https://mylnzon58.github.io/t2-macbook-pro-16-1-thermal-performance-fix-macos/)
+* **Repositorio de la App Visual (A2141 Monitor):** [`mylnzon58/a2141-macos-thermal-monitor`](https://github.com/mylnzon58/a2141-macos-thermal-monitor) | **Web del Monitor:** [mylnzon58.github.io/a2141-macos-thermal-monitor](https://mylnzon58.github.io/a2141-macos-thermal-monitor/)
+
+<p align="center">
+  <img src="assets/t2-thermal-monitor-macos-horizontal.png" alt="A2141 Monitor — Gráficas en tiempo real de núcleos, temperatura y turbinas en macOS" width="95%" />
+</p>
+
 ---
 
 ### 🛡️ Caso Real: Seguridad Web, Hardening en WordPress & SEO (+10 años en producción)
@@ -265,7 +281,7 @@ Además de crear nuevos productos y plataformas SaaS, administro y optimizo infr
 
 Si alguno de mis proyectos open-source o herramientas técnicas te resultó útil en producción:
 
-- **Repositorios y feedback:** Una estrella en [TuxBar](https://github.com/mylnzon58/tuxbar), [LiveFunnel](https://github.com/mylnzon58/livefunnel), [TikTok LIVE Games](https://github.com/mylnzon58/tiktok-live-games) o en los [parches de Apple T2 para Ubuntu](https://github.com/mylnzon58/t2-macbook-pro-16-1-thermal-performance-fix-ubuntu) ayuda a darles difusión en la comunidad técnica.
+- **Repositorios y feedback:** Una estrella en [TuxBar](https://github.com/mylnzon58/tuxbar), [LiveFunnel](https://github.com/mylnzon58/livefunnel), [TikTok LIVE Games](https://github.com/mylnzon58/tiktok-live-games), el [Driver Ring-0 de Apple T2 para macOS](https://github.com/mylnzon58/t2-macbook-pro-16-1-thermal-performance-fix-macos) o en los [parches de Apple T2 para Ubuntu](https://github.com/mylnzon58/t2-macbook-pro-16-1-thermal-performance-fix-ubuntu) ayuda a darles difusión en la comunidad técnica.
 - **Seguir perfil:** En [github.com/mylnzon58](https://github.com/mylnzon58) para nuevos lanzamientos de software y experimentos de sistemas.
 - **Patrocinio:** [GitHub Sponsors](https://github.com/sponsors/mylnzon58) para apoyar infraestructura y servidores independientes.
 - **Planes para Sponsors (Patreon):** Para quienes deseen apoyar de forma recurrente el desarrollo y mantenimiento continuo de software open-source independiente, cuento con planes mensuales organizados para sponsors en **[patreon.com/JuanjoClassic](https://www.patreon.com/JuanjoClassic)** (desde planes Supporter y Open Source hasta Gold y Patrocinador Fundador).
