@@ -17,6 +17,12 @@
   <a href="https://cheya-app.pages.dev" target="_blank">
     <img src="https://img.shields.io/badge/%F0%9F%8E%99%EF%B8%8F_CheYa_AI-cheya--app.pages.dev-10B981?style=for-the-badge&logoColor=white" alt="CheYa AI - cheya-app.pages.dev" />
   </a>
+  <a href="https://github.com/mylnzon58/gravoz" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%94%8A_Gravoz_AI-Antigravity_IDE_Voice-0284C7?style=for-the-badge&logo=google&logoColor=white" alt="Gravoz AI - Antigravity IDE Voice Extension" />
+  </a>
+  <a href="https://open-vsx.org/extension/mylnzon58/gravoz" target="_blank">
+    <img src="https://img.shields.io/badge/Open_VSX_Store-Gravoz_AI-A855F7?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Gravoz AI en Open VSX Store" />
+  </a>
   <a href="https://anuncero.press" target="_blank">
     <img src="https://img.shields.io/badge/%F0%9F%9A%80_Anuncero-anuncero.press-7C3AED?style=for-the-badge&logoColor=white" alt="Anuncero - anuncero.press" />
   </a>
@@ -116,6 +122,9 @@ Conecto la ingeniería con la tracción real del producto mediante una gestión 
 ---
 
 ### 🧩 Productos Digitales, Plataformas SaaS y Aportes Open-Source
+
+- 🔊 **[Gravoz AI — `mylnzon58.github.io/gravoz`](https://mylnzon58.github.io/gravoz/)** *(Open Source · Publicada en [Open VSX Store](https://open-vsx.org/extension/mylnzon58/gravoz) · [Repositorio GitHub](https://github.com/mylnzon58/gravoz))*  
+  **Asistente nativo de voz inteligente para Google Antigravity IDE (Linux, macOS y Windows).** Interpreta automáticamente planes y respuestas técnicas con contexto real de tu proyecto activo y los narra en español (o inglés opcional) usando 8 voces de estudio de **Google Gemini** en 3 niveles de profundidad (*Al grano*, *Normal* y *Técnico*), con controles rápidos en la barra inferior y gestión inteligente de cuota gratuita.
 
 - 🎙️ **[CheYa AI — `cheya-app.pages.dev`](https://cheya-app.pages.dev)** *(SaaS en producción · App Android + Cloudflare Edge)*  
   **Asistente de inteligencia artificial para audios y productividad en WhatsApp.** Resuelve la saturación de notas de voz largas, captura compromisos en Google Calendar con un solo toque y permite responder por voz con síntesis natural mientras conduces o trabajas.
