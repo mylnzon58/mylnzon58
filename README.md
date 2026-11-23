@@ -23,6 +23,9 @@
   <a href="https://open-vsx.org/extension/mylnzon58/gravoz" target="_blank">
     <img src="https://img.shields.io/badge/Open_VSX_Store-Gravoz_AI-A855F7?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Gravoz AI en Open VSX Store" />
   </a>
+  <a href="https://mylnzon58.github.io/velotv/" target="_blank">
+    <img src="https://img.shields.io/badge/VeloTV-Android_TV_60fps-DF9D3E?style=for-the-badge&logo=android&logoColor=12100E" alt="VeloTV - Native Android TV Launcher" />
+  </a>
   <a href="https://anuncero.press" target="_blank">
     <img src="https://img.shields.io/badge/%F0%9F%9A%80_Anuncero-anuncero.press-7C3AED?style=for-the-badge&logoColor=white" alt="Anuncero - anuncero.press" />
   </a>
@@ -125,6 +128,9 @@ Conecto la ingeniería con la tracción real del producto mediante una gestión 
 
 - 🔊 **[Gravoz AI — `mylnzon58.github.io/gravoz`](https://mylnzon58.github.io/gravoz/)** *(Open Source · Publicada en [Open VSX Store](https://open-vsx.org/extension/mylnzon58/gravoz) · [Repositorio GitHub](https://github.com/mylnzon58/gravoz))*  
   **Asistente nativo de voz inteligente para Google Antigravity IDE (Linux, macOS y Windows).** Interpreta automáticamente planes y respuestas técnicas con contexto real de tu proyecto activo y los narra en español (o inglés opcional) usando 8 voces de estudio de **Google Gemini** en 3 niveles de profundidad (*Al grano*, *Normal* y *Técnico*), con controles rápidos en la barra inferior y gestión inteligente de cuota gratuita.
+
+- 📺 **[VeloTV — `mylnzon58.github.io/velotv`](https://mylnzon58.github.io/velotv/)** *(Open Source · MIT · [Repositorio GitHub](https://github.com/mylnzon58/velotv) · [APK v1.0.0](https://github.com/mylnzon58/velotv/releases/tag/v1.0.0))*  
+  **Launcher nativo en Kotlin de 60 fps para Android TV y Google TV (1–2 GB RAM).** `2.1 MB` de APK y `27.3 MB` de RAM en vivo (3x más liviano que el launcher de fábrica), sin anuncios ni telemetría. Incluye fondos de bancos libres rotativos, botón rápido *Limpiar*, entradas físicas HDMI, opciones nativas de desarrollador, calibración 4K/HDR, modo ambiente OLED e instalador en 3 clics.
 
 - 🎙️ **[CheYa AI — `cheya-app.pages.dev`](https://cheya-app.pages.dev)** *(SaaS en producción · App Android + Cloudflare Edge)*  
   **Asistente de inteligencia artificial para audios y productividad en WhatsApp.** Resuelve la saturación de notas de voz largas, captura compromisos en Google Calendar con un solo toque y permite responder por voz con síntesis natural mientras conduces o trabajas.
@@ -290,7 +296,7 @@ Además de crear nuevos productos y plataformas SaaS, administro y optimizo infr
 
 Si alguno de mis proyectos open-source o herramientas técnicas te resultó útil en producción:
 
-- **Repositorios y feedback:** Una estrella en [TuxBar](https://github.com/mylnzon58/tuxbar), [LiveFunnel](https://github.com/mylnzon58/livefunnel), [TikTok LIVE Games](https://github.com/mylnzon58/tiktok-live-games), el [Driver Ring-0 de Apple T2 para macOS](https://github.com/mylnzon58/t2-macbook-pro-16-1-thermal-performance-fix-macos) o en los [parches de Apple T2 para Ubuntu](https://github.com/mylnzon58/t2-macbook-pro-16-1-thermal-performance-fix-ubuntu) ayuda a darles difusión en la comunidad técnica.
+- **Repositorios y feedback:** Una estrella en [VeloTV](https://github.com/mylnzon58/velotv), [Gravoz AI](https://github.com/mylnzon58/gravoz), [TuxBar](https://github.com/mylnzon58/tuxbar), [LiveFunnel](https://github.com/mylnzon58/livefunnel), [TikTok LIVE Games](https://github.com/mylnzon58/tiktok-live-games), el [Driver Ring-0 de Apple T2 para macOS](https://github.com/mylnzon58/t2-macbook-pro-16-1-thermal-performance-fix-macos) o en los [parches de Apple T2 para Ubuntu](https://github.com/mylnzon58/t2-macbook-pro-16-1-thermal-performance-fix-ubuntu) ayuda a darles difusión en la comunidad técnica.
 - **Seguir perfil:** En [github.com/mylnzon58](https://github.com/mylnzon58) para nuevos lanzamientos de software y experimentos de sistemas.
 - **Patrocinio:** [GitHub Sponsors](https://github.com/sponsors/mylnzon58) para apoyar infraestructura y servidores independientes.
 - **Planes para Sponsors (Patreon):** Para quienes deseen apoyar de forma recurrente el desarrollo y mantenimiento continuo de software open-source independiente, cuento con planes mensuales organizados para sponsors en **[patreon.com/JuanjoClassic](https://www.patreon.com/JuanjoClassic)** (desde planes Supporter y Open Source hasta Gold y Patrocinador Fundador).
