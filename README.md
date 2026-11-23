@@ -5,9 +5,12 @@
 # Hola, soy [Juan José Monzón](https://www.linkedin.com/in/juan-m-97b85681/) 🇦🇷 👋
 
 **Full Stack Developer & AI Product Builder | Growth, Conversion & Applied AI**  
-📍 Argentina 🇦🇷
+📍 Argentina 🇦🇷 · 🌐 **Portfolio:** [juan-monzon.mylnzon58.workers.dev](https://juan-monzon.mylnzon58.workers.dev/)
 
 <p align="left">
+  <a href="https://juan-monzon.mylnzon58.workers.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-juan--monzon-C6FF3D?style=for-the-badge&logo=cloudflare&logoColor=0A0A0B" alt="Portfolio Web - Juan José Monzón" />
+  </a>
   <a href="https://www.linkedin.com/in/juan-m-97b85681/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Juan_Monz%C3%B3n-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Juan Monzón" />
   </a>
