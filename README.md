@@ -9,70 +9,73 @@
 
 <p align="left">
   <a href="https://juan-monzon.mylnzon58.workers.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-juan--monzon-C6FF3D?style=for-the-badge&logo=cloudflare&logoColor=0A0A0B" alt="Portfolio Web - Juan José Monzón" />
+    <img src="assets/badges/portfolio-ftb.svg" height="28" alt="Portfolio Web - Juan José Monzón" />
   </a>
   <a href="https://www.linkedin.com/in/juan-m-97b85681/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Juan_Monz%C3%B3n-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Juan Monzón" />
+    <img src="assets/badges/linkedin-ftb.svg" height="28" alt="LinkedIn - Juan Monzón" />
   </a>
   <a href="https://www.instagram.com/juanjoclassic/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%40juanjoclassic-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram - @juanjoclassic" />
+    <img src="assets/badges/instagram-ftb.svg" height="28" alt="Instagram - @juanjoclassic" />
   </a>
   <a href="https://cheya-app.pages.dev" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%8E%99%EF%B8%8F_CheYa_AI-cheya--app.pages.dev-10B981?style=for-the-badge&logoColor=white" alt="CheYa AI - cheya-app.pages.dev" />
+    <img src="assets/badges/cheya-ftb.svg" height="28" alt="CheYa AI - cheya-app.pages.dev" />
   </a>
   <a href="https://github.com/mylnzon58/gravoz" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%94%8A_Gravoz_AI-Antigravity_IDE_Voice-0284C7?style=for-the-badge&logo=google&logoColor=white" alt="Gravoz AI - Antigravity IDE Voice Extension" />
+    <img src="assets/badges/gravoz-ftb.svg" height="28" alt="Gravoz AI - Antigravity IDE Voice Extension" />
   </a>
   <a href="https://open-vsx.org/extension/mylnzon58/gravoz" target="_blank">
-    <img src="https://img.shields.io/badge/Open_VSX_Store-Gravoz_AI-A855F7?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Gravoz AI en Open VSX Store" />
+    <img src="assets/badges/openvsx-ftb.svg" height="28" alt="Gravoz AI en Open VSX Store" />
   </a>
   <a href="https://mylnzon58.github.io/velotv/" target="_blank">
-    <img src="https://img.shields.io/badge/VeloTV-Android_TV_60fps-DF9D3E?style=for-the-badge&logo=android&logoColor=12100E" alt="VeloTV - Native Android TV Launcher" />
+    <img src="assets/badges/velotv-ftb.svg" height="28" alt="VeloTV - Native Android TV Launcher" />
   </a>
   <a href="https://anuncero.press" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%9A%80_Anuncero-anuncero.press-7C3AED?style=for-the-badge&logoColor=white" alt="Anuncero - anuncero.press" />
+    <img src="assets/badges/anuncero-ftb.svg" height="28" alt="Anuncero - anuncero.press" />
   </a>
   <a href="https://puntogeo.com" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%93%8D_PuntoGeo-puntogeo.com-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="PuntoGeo - puntogeo.com" />
+    <img src="assets/badges/puntogeo-ftb.svg" height="28" alt="PuntoGeo - puntogeo.com" />
   </a>
   <a href="https://github.com/mylnzon58/livefunnel" target="_blank">
-    <img src="https://img.shields.io/badge/%E2%9A%A1_LiveFunnel-CRO_%26_3D_Analytics-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="LiveFunnel - Open Source CRO Engine" />
+    <img src="assets/badges/livefunnel-ftb.svg" height="28" alt="LiveFunnel - Open Source CRO Engine" />
   </a>
   <a href="https://github.com/mylnzon58/tiktok-live-games" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%8E%AE_TikTok_LIVE-Interactive_Games_Hub-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok LIVE Interactive Games Hub" />
+    <img src="assets/badges/tiktok-ftb.svg" height="28" alt="TikTok LIVE Interactive Games Hub" />
   </a>
   <a href="https://chromewebstore.google.com/detail/ofiokicamkblihcegnjnjngfooehhgfk?utm_source=item-share-cb" target="_blank">
-    <img src="https://img.shields.io/badge/Chrome_Web_Store-Extensi%C3%B3n_Publicada-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store Extension" />
+    <img src="assets/badges/chrome-tts-ftb.svg" height="28" alt="Chrome Web Store Extension" />
   </a>
   <a href="https://github.com/mylnzon58/tuxbar" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%90%A7_TuxBar-Dynamic_Touch_Bar_Engine-77216F?style=for-the-badge&logo=rust&logoColor=white" alt="TuxBar - Dynamic Apple Touch Bar Engine" />
+    <img src="assets/badges/tuxbar-ftb.svg" height="28" alt="TuxBar - Dynamic Apple Touch Bar Engine" />
+  </a>
+  <a href="https://github.com/mylnzon58/tuxbar-pro" target="_blank">
+    <img src="assets/badges/tuxbar-pro-ftb.svg" height="28" alt="TuxBar Pro - macOS 2170x60 Touch Bar Suite" />
   </a>
   <a href="https://github.com/mylnzon58/t2-touchid-touchbar-bridge-ubuntu-24" target="_blank">
-    <img src="https://img.shields.io/badge/Apple_T2-Touch_Bar_%26_Touch_ID-10B981?style=for-the-badge&logo=apple&logoColor=white" alt="Touch Bar & Touch ID Bridge" />
+    <img src="assets/badges/t2-touchid-ftb.svg" height="28" alt="Touch Bar & Touch ID Bridge" />
   </a>
   <a href="https://github.com/mylnzon58/t2-chrome-gpu-memory-optimizer-ubuntu-24" target="_blank">
-    <img src="https://img.shields.io/badge/Apple_T2-Chrome_%26_GPU_Optimizer-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome & GPU Optimizer" />
+    <img src="assets/badges/t2-chrome-gpu-ftb.svg" height="28" alt="Chrome & GPU Optimizer" />
   </a>
   <a href="https://github.com/mylnzon58/t2-macbook-pro-16-1-thermal-performance-fix-ubuntu" target="_blank">
-    <img src="https://img.shields.io/badge/Apple_T2-Thermal_%26_Kernel_Fix-E95420?style=for-the-badge&logo=linux&logoColor=white" alt="Thermal Performance Fix" />
+    <img src="assets/badges/t2-thermal-ubuntu-ftb.svg" height="28" alt="Thermal Performance Fix" />
   </a>
   <a href="https://github.com/mylnzon58/t2-macbook-pro-16-1-thermal-performance-fix-macos" target="_blank">
-    <img src="https://img.shields.io/badge/Apple_T2_macOS-Ring--0_HWP_%26_Thermal_Fix-C9A45A?style=for-the-badge&logo=apple&logoColor=white" alt="macOS Ring-0 Thermal Performance Fix" />
+    <img src="assets/badges/t2-thermal-macos-ftb.svg" height="28" alt="macOS Ring-0 Thermal Performance Fix" />
   </a>
   <a href="https://github.com/mylnzon58/t2-macbook-pro-16-1-dsp-ubuntu-24.04" target="_blank">
-    <img src="https://img.shields.io/badge/Apple_T2-6--Speaker_Audio_DSP-0284C7?style=for-the-badge&logo=pipewire&logoColor=white" alt="Apple T2 6-Speaker Audio DSP" />
+    <img src="assets/badges/t2-dsp-ftb.svg" height="28" alt="Apple T2 6-Speaker Audio DSP" />
   </a>
   <a href="https://github.com/mylnzon58" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-mylnzon58-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - @mylnzon58" />
+    <img src="assets/badges/github-ftb.svg" height="28" alt="GitHub - @mylnzon58" />
   </a>
   <a href="https://github.com/sponsors/mylnzon58" target="_blank">
-    <img src="https://img.shields.io/badge/Sponsor-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Sponsors - @mylnzon58" />
+    <img src="assets/badges/sponsors-ftb.svg" height="28" alt="GitHub Sponsors - @mylnzon58" />
   </a>
   <a href="https://www.patreon.com/JuanjoClassic" target="_blank">
-    <img src="https://img.shields.io/badge/Patreon-Planes_para_Sponsors-FF424D?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon - Planes para Sponsors" />
+    <img src="assets/badges/patreon-ftb.svg" height="28" alt="Patreon - Planes para Sponsors" />
   </a>
   <a href="https://tecito.app/juanjoclassic" target="_blank">
-    <img src="https://img.shields.io/badge/%E2%98%95_Donar_un_Tecito-tecito.app%2Fjuanjoclassic-FF813F?style=for-the-badge&logoColor=white" alt="Donar un Tecito - tecito.app/juanjoclassic" />
+    <img src="assets/badges/tecito-ftb.svg" height="28" alt="Donar un Tecito - tecito.app/juanjoclassic" />
   </a>
 </p>
 
