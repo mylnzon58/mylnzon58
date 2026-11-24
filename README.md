@@ -44,6 +44,12 @@
   <a href="https://chromewebstore.google.com/detail/ofiokicamkblihcegnjnjngfooehhgfk?utm_source=item-share-cb" target="_blank">
     <img src="assets/badges/chrome-tts-ftb.svg" height="28" alt="Chrome Web Store Extension" />
   </a>
+  <a href="https://github.com/mylnzon58/vinyl-deck" target="_blank">
+    <img src="assets/badges/vinyl-deck-ftb.svg" height="28" alt="Vinyl Deck - Reproductor Android 86 KB" />
+  </a>
+  <a href="https://github.com/mylnzon58/s24fe-turbo-cleaner" target="_blank">
+    <img src="assets/badges/turbo-cleaner-ftb.svg" height="28" alt="Optimizador S24 FE - Turbo Cleaner 46 KB" />
+  </a>
   <a href="https://github.com/mylnzon58/tuxbar" target="_blank">
     <img src="assets/badges/tuxbar-ftb.svg" height="28" alt="TuxBar - Dynamic Apple Touch Bar Engine" />
   </a>
@@ -137,6 +143,12 @@ Conecto la ingeniería con la tracción real del producto mediante una gestión 
 
 - 📺 **[VeloTV — `mylnzon58.github.io/velotv`](https://mylnzon58.github.io/velotv/)** *(Open Source · MIT · [Repositorio GitHub](https://github.com/mylnzon58/velotv) · [APK v1.0.0](https://github.com/mylnzon58/velotv/releases/tag/v1.0.0))*  
   **Launcher nativo en Kotlin de 60 fps para Android TV y Google TV (1–2 GB RAM).** `2.1 MB` de APK y `27.3 MB` de RAM en vivo (3x más liviano que el launcher de fábrica), sin anuncios ni telemetría. Incluye fondos de bancos libres rotativos, botón rápido *Limpiar*, entradas físicas HDMI, opciones nativas de desarrollador, calibración 4K/HDR, modo ambiente OLED e instalador en 3 clics.
+
+- 💿 **[Vinyl Deck — `mylnzon58.github.io/vinyl-deck`](https://mylnzon58.github.io/vinyl-deck/)** *(Open Source · MIT · `86 KB` APK · [Repositorio GitHub](https://github.com/mylnzon58/vinyl-deck))*  
+  **Reproductor visual de vinilo, casete, CD y estante 3D para Android (`Spotify`, `YT Music`, `YouTube`).** Escenario nativo sin cajas (`60–120 Hz`), giro automático `90°` a Estante 3D con giroscopio, vúmetro FFT de 16 bandas, tema Claro/OLED puro y modo mesa **StandBy OLED**.
+
+- ⚡ **[Optimizador S24 FE (`s24fe-turbo-cleaner`) — `mylnzon58.github.io/s24fe-turbo-cleaner`](https://mylnzon58.github.io/s24fe-turbo-cleaner/)** *(Open Source · MIT · `46 KB` APK · [Repositorio GitHub](https://github.com/mylnzon58/s24fe-turbo-cleaner))*  
+  **App nativa de limpieza RAM (`46 KB`) y suite ADB 100 % reversible sin root (`Knox 0x0` intacto).** Incluye Widget 1×1, Quick Settings Tile, telemetría CPU/térmica/red/almacenamiento en vivo y scripts para frenar telemetría comercial y optimizar con `rollback.sh`.
 
 - 🎙️ **[CheYa AI — `cheya-app.pages.dev`](https://cheya-app.pages.dev)** *(SaaS en producción · App Android + Cloudflare Edge)*  
   **Asistente de inteligencia artificial para audios y productividad en WhatsApp.** Resuelve la saturación de notas de voz largas, captura compromisos en Google Calendar con un solo toque y permite responder por voz con síntesis natural mientras conduces o trabajas.
