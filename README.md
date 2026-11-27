@@ -141,8 +141,8 @@ Conecto la ingeniería con la tracción real del producto mediante una gestión 
 
 ### 🧩 Productos Digitales, Plataformas SaaS y Aportes Open-Source
 
-- 🛡️ **[WirePulse — `mylnzon58.github.io/wirepulse`](https://mylnzon58.github.io/wirepulse/)** *(Open Source · MIT · `108 KB` C11 · [Repositorio GitHub](https://github.com/mylnzon58/wirepulse))*  
-  **Cliente WireGuard nativo a bajo nivel para Linux + Kill-Switch atómico en `nftables`.** Binario único en C11 sin Electron ni Docker que habla directo con el módulo `wireguard` del kernel vía Netlink (`wgpulse0`), importa perfiles `.conf` estándar (Mullvad, IVPN, Proton, VPS propio), incluye modo rápido opcional con rotación de endpoint en milisegundos e interfaz GTK3 en tema Claro y OLED puro.
+- 🛡️ **[WirePulse — `mylnzon58.github.io/wirepulse`](https://mylnzon58.github.io/wirepulse/)** *(Open Source · MIT · Linux + Windows 10/11 · [Repositorio GitHub](https://github.com/mylnzon58/wirepulse) · [Descargas](https://github.com/mylnzon58/wirepulse/releases/latest))*  
+  **Cliente WireGuard nativo en C11 puro para Linux (~108 KB) y Windows (sin DLLs faltantes) con Kill-Switch en kernel.** En Linux habla directo con el módulo `wireguard` vía Netlink + `nftables`; en Windows usa `wireguard-nt` oficial en kernel + Kill-Switch dinámico **WFP** y WinHTTP TLS 1.3. Importa perfiles `.conf` estándar (Mullvad, IVPN, Proton, VPS propio), incluye modo rápido opcional e interfaz nativa Claro y OLED puro.
 
 <p align="center">
   <img src="assets/wirepulse-horizontal.jpg" alt="WirePulse — Cliente Linux WireGuard Nativo 108 KB + Kill-Switch nftables" width="90%" />
