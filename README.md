@@ -20,6 +20,9 @@
   <a href="https://cheya-app.pages.dev" target="_blank">
     <img src="assets/badges/cheya-ftb.svg" height="28" alt="CheYa AI - cheya-app.pages.dev" />
   </a>
+  <a href="https://mylnzon58.github.io/wirepulse/" target="_blank">
+    <img src="assets/badges/wirepulse-ftb.svg" height="28" alt="WirePulse - Cliente Linux WireGuard Nativo 108 KB" />
+  </a>
   <a href="https://github.com/mylnzon58/gravoz" target="_blank">
     <img src="assets/badges/gravoz-ftb.svg" height="28" alt="Gravoz AI - Antigravity IDE Voice Extension" />
   </a>
@@ -137,6 +140,13 @@ Conecto la ingeniería con la tracción real del producto mediante una gestión 
 ---
 
 ### 🧩 Productos Digitales, Plataformas SaaS y Aportes Open-Source
+
+- 🛡️ **[WirePulse — `mylnzon58.github.io/wirepulse`](https://mylnzon58.github.io/wirepulse/)** *(Open Source · MIT · `108 KB` C11 · [Repositorio GitHub](https://github.com/mylnzon58/wirepulse))*  
+  **Cliente WireGuard nativo a bajo nivel para Linux + Kill-Switch atómico en `nftables`.** Binario único en C11 sin Electron ni Docker que habla directo con el módulo `wireguard` del kernel vía Netlink (`wgpulse0`), importa perfiles `.conf` estándar (Mullvad, IVPN, Proton, VPS propio), incluye modo rápido opcional con rotación de endpoint en milisegundos e interfaz GTK3 en tema Claro y OLED puro.
+
+<p align="center">
+  <img src="assets/wirepulse-horizontal.jpg" alt="WirePulse — Cliente Linux WireGuard Nativo 108 KB + Kill-Switch nftables" width="90%" />
+</p>
 
 - 🔊 **[Gravoz AI — `mylnzon58.github.io/gravoz`](https://mylnzon58.github.io/gravoz/)** *(Open Source · Publicada en [Open VSX Store](https://open-vsx.org/extension/mylnzon58/gravoz) · [Repositorio GitHub](https://github.com/mylnzon58/gravoz))*  
   **Asistente nativo de voz inteligente para Google Antigravity IDE (Linux, macOS y Windows).** Interpreta automáticamente planes y respuestas técnicas con contexto real de tu proyecto activo y los narra en español (o inglés opcional) usando 8 voces de estudio de **Google Gemini** en 3 niveles de profundidad (*Al grano*, *Normal* y *Técnico*), con controles rápidos en la barra inferior y gestión inteligente de cuota gratuita.
@@ -314,7 +324,7 @@ Además de crear nuevos productos y plataformas SaaS, administro y optimizo infr
 
 Si alguno de mis proyectos open-source o herramientas técnicas te resultó útil en producción:
 
-- **Repositorios y feedback:** Una estrella en [VeloTV](https://github.com/mylnzon58/velotv), [Gravoz AI](https://github.com/mylnzon58/gravoz), [TuxBar](https://github.com/mylnzon58/tuxbar), [LiveFunnel](https://github.com/mylnzon58/livefunnel), [TikTok LIVE Games](https://github.com/mylnzon58/tiktok-live-games), el [Driver Ring-0 de Apple T2 para macOS](https://github.com/mylnzon58/t2-macbook-pro-16-1-thermal-performance-fix-macos) o en los [parches de Apple T2 para Ubuntu](https://github.com/mylnzon58/t2-macbook-pro-16-1-thermal-performance-fix-ubuntu) ayuda a darles difusión en la comunidad técnica.
+- **Repositorios y feedback:** Una estrella en [WirePulse](https://github.com/mylnzon58/wirepulse), [VeloTV](https://github.com/mylnzon58/velotv), [Gravoz AI](https://github.com/mylnzon58/gravoz), [TuxBar](https://github.com/mylnzon58/tuxbar), [LiveFunnel](https://github.com/mylnzon58/livefunnel), [TikTok LIVE Games](https://github.com/mylnzon58/tiktok-live-games), el [Driver Ring-0 de Apple T2 para macOS](https://github.com/mylnzon58/t2-macbook-pro-16-1-thermal-performance-fix-macos) o en los [parches de Apple T2 para Ubuntu](https://github.com/mylnzon58/t2-macbook-pro-16-1-thermal-performance-fix-ubuntu) ayuda a darles difusión en la comunidad técnica.
 - **Seguir perfil:** En [github.com/mylnzon58](https://github.com/mylnzon58) para nuevos lanzamientos de software y experimentos de sistemas.
 - **Patrocinio:** [GitHub Sponsors](https://github.com/sponsors/mylnzon58) para apoyar infraestructura y servidores independientes.
 - **Planes para Sponsors (Patreon):** Para quienes deseen apoyar de forma recurrente el desarrollo y mantenimiento continuo de software open-source independiente, cuento con planes mensuales organizados para sponsors en **[patreon.com/JuanjoClassic](https://www.patreon.com/JuanjoClassic)** (desde planes Supporter y Open Source hasta Gold y Patrocinador Fundador).
